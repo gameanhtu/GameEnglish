@@ -1,0 +1,3602 @@
+[
+ {
+   "id": 1,
+   "dapan": "Be careful driving."
+ },
+ {
+   "id": 2,
+   "dapan": "Be careful."
+ },
+ {
+   "id": 3,
+   "dapan": "Can you translate this for me?"
+ },
+ {
+   "id": 4,
+   "dapan": "Chicago is very different from Boston."
+ },
+ {
+   "id": 5,
+   "dapan": "Don't worry."
+ },
+ {
+   "id": 6,
+   "dapan": "Everyone knows it."
+ },
+ {
+   "id": 7,
+   "dapan": "Everything is ready."
+ },
+ {
+   "id": 8,
+   "dapan": "Excellent."
+ },
+ {
+   "id": 9,
+   "dapan": "From time to time."
+ },
+ {
+   "id": 10,
+   "dapan": "Good idea."
+ },
+ {
+   "id": 11,
+   "dapan": "He likes it very much."
+ },
+ {
+   "id": 12,
+   "dapan": "Help !"
+ },
+ {
+   "id": 13,
+   "dapan": "He's coming soon."
+ },
+ {
+   "id": 14,
+   "dapan": "He's right."
+ },
+ {
+   "id": 15,
+   "dapan": "He's very annoying."
+ },
+ {
+   "id": 16,
+   "dapan": "He's very famous."
+ },
+ {
+   "id": 17,
+   "dapan": "How are you?"
+ },
+ {
+   "id": 18,
+   "dapan": "How's work going?"
+ },
+ {
+   "id": 19,
+   "dapan": "Hurry !"
+ },
+ {
+   "id": 20,
+   "dapan": "I ate already."
+ },
+ {
+   "id": 21,
+   "dapan": "I can't hear you."
+ },
+ {
+   "id": 22,
+   "dapan": "I don't know how to use it."
+ },
+ {
+   "id": 23,
+   "dapan": "I don't like him."
+ },
+ {
+   "id": 24,
+   "dapan": "I don't like it."
+ },
+ {
+   "id": 25,
+   "dapan": "I don't speak very well."
+ },
+ {
+   "id": 26,
+   "dapan": "I don't understand."
+ },
+ {
+   "id": 27,
+   "dapan": "I don't want it."
+ },
+ {
+   "id": 28,
+   "dapan": "I don't want that."
+ },
+ {
+   "id": 29,
+   "dapan": "I don't want to bother you."
+ },
+ {
+   "id": 30,
+   "dapan": "I feel good."
+ },
+ {
+   "id": 31,
+   "dapan": "I get off of work at 6."
+ },
+ {
+   "id": 32,
+   "dapan": "I have a headache."
+ },
+ {
+   "id": 33,
+   "dapan": "I hope you and your wife have a nice trip."
+ },
+ {
+   "id": 34,
+   "dapan": "I know."
+ },
+ {
+   "id": 35,
+   "dapan": "I like her."
+ },
+ {
+   "id": 36,
+   "dapan": "I lost my watch."
+ },
+ {
+   "id": 37,
+   "dapan": "I love you."
+ },
+ {
+   "id": 38,
+   "dapan": "I need to change clothes."
+ },
+ {
+   "id": 39,
+   "dapan": "I need to go home."
+ },
+ {
+   "id": 40,
+   "dapan": "I only want a snack."
+ },
+ {
+   "id": 41,
+   "dapan": "I think it tastes good."
+ },
+ {
+   "id": 42,
+   "dapan": "I think it's very good."
+ },
+ {
+   "id": 43,
+   "dapan": "I thought the clothes were cheaper."
+ },
+ {
+   "id": 44,
+   "dapan": "I was about to leave the restaurant when my friends arrived."
+ },
+ {
+   "id": 45,
+   "dapan": "I'd like to go for a walk."
+ },
+ {
+   "id": 46,
+   "dapan": "If you need my help, please let me know."
+ },
+ {
+   "id": 47,
+   "dapan": "I'll call you when I leave."
+ },
+ {
+   "id": 48,
+   "dapan": "I'll come back later."
+ },
+ {
+   "id": 49,
+   "dapan": "I'll pay."
+ },
+ {
+   "id": 50,
+   "dapan": "I'll take it."
+ },
+ {
+   "id": 51,
+   "dapan": "I'll take you to the bus stop."
+ },
+ {
+   "id": 52,
+   "dapan": "I'm an American."
+ },
+ {
+   "id": 53,
+   "dapan": "I'm cleaning my room."
+ },
+ {
+   "id": 54,
+   "dapan": "I'm cold."
+ },
+ {
+   "id": 55,
+   "dapan": "I'm coming to pick you up."
+ },
+ {
+   "id": 56,
+   "dapan": "I'm going to leave."
+ },
+ {
+   "id": 57,
+   "dapan": "I'm good, and you?"
+ },
+ {
+   "id": 58,
+   "dapan": "I'm happy."
+ },
+ {
+   "id": 59,
+   "dapan": "I'm hungry."
+ },
+ {
+   "id": 60,
+   "dapan": "I'm married."
+ },
+ {
+   "id": 61,
+   "dapan": "I'm not busy."
+ },
+ {
+   "id": 62,
+   "dapan": "I'm not married."
+ },
+ {
+   "id": 63,
+   "dapan": "I'm not ready yet."
+ },
+ {
+   "id": 64,
+   "dapan": "I'm not sure."
+ },
+ {
+   "id": 65,
+   "dapan": "I'm sorry, we're sold out."
+ },
+ {
+   "id": 66,
+   "dapan": "I'm thirsty."
+ },
+ {
+   "id": 67,
+   "dapan": "I'm very busy. I don't have time now."
+ },
+ {
+   "id": 68,
+   "dapan": "Is Mr. Smith an American?"
+ },
+ {
+   "id": 69,
+   "dapan": "Is that enough?"
+ },
+ {
+   "id": 70,
+   "dapan": "It's longer than 2 miles."
+ },
+ {
+   "id": 71,
+   "dapan": "I've been here for two days."
+ },
+ {
+   "id": 72,
+   "dapan": "I've heard Texas is a beautiful place."
+ },
+ {
+   "id": 73,
+   "dapan": "I've never seen that before."
+ },
+ {
+   "id": 74,
+   "dapan": "Just a little."
+ },
+ {
+   "id": 75,
+   "dapan": "Just a moment."
+ },
+ {
+   "id": 76,
+   "dapan": "Let me check."
+ },
+ {
+   "id": 77,
+   "dapan": "Let me think about it."
+ },
+ {
+   "id": 78,
+   "dapan": "Let's go have a look."
+ },
+ {
+   "id": 79,
+   "dapan": "Let's practice English."
+ },
+ {
+   "id": 80,
+   "dapan": "May I speak to Mrs. Smith please?"
+ },
+ {
+   "id": 81,
+   "dapan": "More than that."
+ },
+ {
+   "id": 82,
+   "dapan": "Never mind."
+ },
+ {
+   "id": 83,
+   "dapan": "Next time."
+ },
+ {
+   "id": 84,
+   "dapan": "No, thank you."
+ },
+ {
+   "id": 85,
+   "dapan": "Not recently."
+ },
+ {
+   "id": 86,
+   "dapan": "Not yet."
+ },
+ {
+   "id": 87,
+   "dapan": "Nothing else."
+ },
+ {
+   "id": 88,
+   "dapan": "Of course."
+ },
+ {
+   "id": 89,
+   "dapan": "Please fill out this form."
+ },
+ {
+   "id": 90,
+   "dapan": "Please take me to this address."
+ },
+ {
+   "id": 91,
+   "dapan": "Please write it down."
+ },
+ {
+   "id": 92,
+   "dapan": "Right here."
+ },
+ {
+   "id": 93,
+   "dapan": "Right there."
+ },
+ {
+   "id": 94,
+   "dapan": "See you later."
+ },
+ {
+   "id": 95,
+   "dapan": "See you tomorrow."
+ },
+ {
+   "id": 96,
+   "dapan": "See you tonight."
+ },
+ {
+   "id": 97,
+   "dapan": "She's pretty."
+ },
+ {
+   "id": 98,
+   "dapan": "Sorry to bother you."
+ },
+ {
+   "id": 99,
+   "dapan": "Take a chance."
+ },
+ {
+   "id": 100,
+   "dapan": "Take it outside."
+ },
+ {
+   "id": 101,
+   "dapan": "Tell me."
+ },
+ {
+   "id": 102,
+   "dapan": "Thank you miss."
+ },
+ {
+   "id": 103,
+   "dapan": "Thank you sir."
+ },
+ {
+   "id": 104,
+   "dapan": "Thank you very much."
+ },
+ {
+   "id": 105,
+   "dapan": "Thank you."
+ },
+ {
+   "id": 106,
+   "dapan": "Thanks for everything."
+ },
+ {
+   "id": 107,
+   "dapan": "Thanks for your help."
+ },
+ {
+   "id": 108,
+   "dapan": "That looks great."
+ },
+ {
+   "id": 109,
+   "dapan": "That smells bad."
+ },
+ {
+   "id": 110,
+   "dapan": "That's alright."
+ },
+ {
+   "id": 111,
+   "dapan": "That's enough."
+ },
+ {
+   "id": 112,
+   "dapan": "That's fine."
+ },
+ {
+   "id": 113,
+   "dapan": "That's it."
+ },
+ {
+   "id": 114,
+   "dapan": "That's not fair."
+ },
+ {
+   "id": 115,
+   "dapan": "That's not right."
+ },
+ {
+   "id": 116,
+   "dapan": "That's right."
+ },
+ {
+   "id": 117,
+   "dapan": "That's too bad."
+ },
+ {
+   "id": 118,
+   "dapan": "That's too many."
+ },
+ {
+   "id": 119,
+   "dapan": "That's too much."
+ },
+ {
+   "id": 120,
+   "dapan": "The book is under the table."
+ },
+ {
+   "id": 121,
+   "dapan": "They'll be right back."
+ },
+ {
+   "id": 122,
+   "dapan": "They're the same."
+ },
+ {
+   "id": 123,
+   "dapan": "They're very busy."
+ },
+ {
+   "id": 124,
+   "dapan": "This doesn't work."
+ },
+ {
+   "id": 125,
+   "dapan": "This is very difficult."
+ },
+ {
+   "id": 126,
+   "dapan": "This is very important."
+ },
+ {
+   "id": 127,
+   "dapan": "Try it."
+ },
+ {
+   "id": 128,
+   "dapan": "Very good, thanks."
+ },
+ {
+   "id": 129,
+   "dapan": "We like it very much."
+ },
+ {
+   "id": 130,
+   "dapan": "Would you take a message please?"
+ },
+ {
+   "id": 131,
+   "dapan": "Yes, really."
+ },
+ {
+   "id": 132,
+   "dapan": "Your things are all here."
+ },
+ {
+   "id": 133,
+   "dapan": "You're beautiful."
+ },
+ {
+   "id": 134,
+   "dapan": "Certainly!"
+ },
+ {
+   "id": 135,
+   "dapan": "Good afternoon."
+ },
+ {
+   "id": 136,
+   "dapan": "Good evening sir."
+ },
+ {
+   "id": 137,
+   "dapan": "Good Luck."
+ },
+ {
+   "id": 138,
+   "dapan": "Good morning."
+ },
+ {
+   "id": 139,
+   "dapan": "Great."
+ },
+ {
+   "id": 140,
+   "dapan": "You're very nice."
+ },
+ {
+   "id": 141,
+   "dapan": "You're very smart."
+ },
+ {
+   "id": 142,
+   "dapan": "Happy Birthday."
+ },
+ {
+   "id": 143,
+   "dapan": "Have a good trip."
+ },
+ {
+   "id": 144,
+   "dapan": "Hello."
+ },
+ {
+   "id": 145,
+   "dapan": "Nice to meet you"
+ },
+ {
+   "id": 146,
+   "dapan": "Please call me."
+ },
+ {
+   "id": 147,
+   "dapan": "Do you have enough money?"
+ },
+ {
+   "id": 148,
+   "dapan": "Do you know how to cook?"
+ },
+ {
+   "id": 149,
+   "dapan": "Do you know what this says?"
+ },
+ {
+   "id": 150,
+   "dapan": "Do you want me to come and pick you up?"
+ },
+ {
+   "id": 151,
+   "dapan": "Does this road go to New York?"
+ },
+ {
+   "id": 152,
+   "dapan": "Follow me."
+ },
+ {
+   "id": 153,
+   "dapan": "From here to there."
+ },
+ {
+   "id": 154,
+   "dapan": "A one way ticket."
+ },
+ {
+   "id": 155,
+   "dapan": "A round trip ticket."
+ },
+ {
+   "id": 156,
+   "dapan": "About 300 kilometers."
+ },
+ {
+   "id": 157,
+   "dapan": "Are you going to help her?"
+ },
+ {
+   "id": 158,
+   "dapan": "At what time?"
+ },
+ {
+   "id": 159,
+   "dapan": "Can I make an appointment for next Wednesday?"
+ },
+ {
+   "id": 160,
+   "dapan": "Can you repeat that please?"
+ },
+ {
+   "id": 161,
+   "dapan": "Go straight ahead."
+ },
+ {
+   "id": 162,
+   "dapan": "Have you arrived?"
+ },
+ {
+   "id": 163,
+   "dapan": "Have you been to Boston?"
+ },
+ {
+   "id": 164,
+   "dapan": "How do I get there?"
+ },
+ {
+   "id": 165,
+   "dapan": "How do I get to Daniel Street?"
+ },
+ {
+   "id": 166,
+   "dapan": "How do I get to the American Embassy?"
+ },
+ {
+   "id": 167,
+   "dapan": "How long does it take by car?"
+ },
+ {
+   "id": 168,
+   "dapan": "How long does it take to get to Georgia?"
+ },
+ {
+   "id": 169,
+   "dapan": "How long is the flight?"
+ },
+ {
+   "id": 170,
+   "dapan": "How was the movie?"
+ },
+ {
+   "id": 171,
+   "dapan": "I have a question I want to ask you./ I want to ask you a question."
+ },
+ {
+   "id": 172,
+   "dapan": "I wish I had one."
+ },
+ {
+   "id": 173,
+   "dapan": "I'd like to make a phone call."
+ },
+ {
+   "id": 174,
+   "dapan": "I'd like to make a reservation."
+ },
+ {
+   "id": 175,
+   "dapan": "I'll take that one also."
+ },
+ {
+   "id": 176,
+   "dapan": "I'm coming right now."
+ },
+ {
+   "id": 177,
+   "dapan": "I'm going home in four days."
+ },
+ {
+   "id": 178,
+   "dapan": "I'm leaving Tomorrow."
+ },
+ {
+   "id": 179,
+   "dapan": "I'm looking for the post office."
+ },
+ {
+   "id": 180,
+   "dapan": "Is this pen yours?"
+ },
+ {
+   "id": 181,
+   "dapan": "One ticket to New York please."
+ },
+ {
+   "id": 182,
+   "dapan": "One way or round trip?"
+ },
+ {
+   "id": 183,
+   "dapan": "Please speak slower."
+ },
+ {
+   "id": 184,
+   "dapan": "Please take me to the airport."
+ },
+ {
+   "id": 185,
+   "dapan": "That way."
+ },
+ {
+   "id": 186,
+   "dapan": "The plane departs at 5:30P."
+ },
+ {
+   "id": 187,
+   "dapan": "They arrived yesterday."
+ },
+ {
+   "id": 188,
+   "dapan": "Turn around."
+ },
+ {
+   "id": 189,
+   "dapan": "Turn left."
+ },
+ {
+   "id": 190,
+   "dapan": "Turn right."
+ },
+ {
+   "id": 191,
+   "dapan": "What time are you going to the bus station?"
+ },
+ {
+   "id": 192,
+   "dapan": "When did this happen?"
+ },
+ {
+   "id": 193,
+   "dapan": "When did you arrive in Boston?"
+ },
+ {
+   "id": 194,
+   "dapan": "When do we arrive?"
+ },
+ {
+   "id": 195,
+   "dapan": "When do we leave?"
+ },
+ {
+   "id": 196,
+   "dapan": "When does he arrive?"
+ },
+ {
+   "id": 197,
+   "dapan": "When does it arrive?"
+ },
+ {
+   "id": 198,
+   "dapan": "When does the bank open?"
+ },
+ {
+   "id": 199,
+   "dapan": "When does the bus leave?"
+ },
+ {
+   "id": 200,
+   "dapan": "11 dollars."
+ },
+ {
+   "id": 201,
+   "dapan": "52 cents."
+ },
+ {
+   "id": 202,
+   "dapan": "A few."
+ },
+ {
+   "id": 203,
+   "dapan": "A little."
+ },
+ {
+   "id": 204,
+   "dapan": "Call the police."
+ },
+ {
+   "id": 205,
+   "dapan": "Did your wife like California?"
+ },
+ {
+   "id": 206,
+   "dapan": "Do you have any coffee?"
+ },
+ {
+   "id": 207,
+   "dapan": "Do you have anything cheaper?"
+ },
+ {
+   "id": 208,
+   "dapan": "Do you take credit cards?"
+ },
+ {
+   "id": 209,
+   "dapan": "How are you paying?"
+ },
+ {
+   "id": 210,
+   "dapan": "How many people are there in New York?"
+ },
+ {
+   "id": 211,
+   "dapan": "How much are these earrings?"
+ },
+ {
+   "id": 212,
+   "dapan": "Where can I mail this?"
+ },
+ {
+   "id": 213,
+   "dapan": "Where is she from?"
+ },
+ {
+   "id": 214,
+   "dapan": "Where is the bathroom?"
+ },
+ {
+   "id": 215,
+   "dapan": "Why not?"
+ },
+ {
+   "id": 216,
+   "dapan": "Will you remind me?"
+ },
+ {
+   "id": 217,
+   "dapan": "How much do I owe you?"
+ },
+ {
+   "id": 218,
+   "dapan": "How much does it cost per day?"
+ },
+ {
+   "id": 219,
+   "dapan": "How much does this cost?"
+ },
+ {
+   "id": 220,
+   "dapan": "How much is it to go to Miami?"
+ },
+ {
+   "id": 221,
+   "dapan": "How much money do you make?"
+ },
+ {
+   "id": 222,
+   "dapan": "I don't have a girlfriend."
+ },
+ {
+   "id": 223,
+   "dapan": "I don't have any money."
+ },
+ {
+   "id": 224,
+   "dapan": "I have a reservation."
+ },
+ {
+   "id": 225,
+   "dapan": "I need to practice my English."
+ },
+ {
+   "id": 226,
+   "dapan": "I'd like to eat at 5th street restaurant."
+ },
+ {
+   "id": 227,
+   "dapan": "I'll have the same thing."
+ },
+ {
+   "id": 228,
+   "dapan": "I'll pay for dinner."
+ },
+ {
+   "id": 229,
+   "dapan": "I'll pay for the tickets."
+ },
+ {
+   "id": 230,
+   "dapan": "I'm 26 years old."
+ },
+ {
+   "id": 231,
+   "dapan": "Is that ok?"
+ },
+ {
+   "id": 232,
+   "dapan": "Is there any mail for me?"
+ },
+ {
+   "id": 233,
+   "dapan": "Isn't it?"
+ },
+ {
+   "id": 234,
+   "dapan": "It's 11:30pm."
+ },
+ {
+   "id": 235,
+   "dapan": "It's is a quarter past nine."
+ },
+ {
+   "id": 236,
+   "dapan": "Please come in."
+ },
+ {
+   "id": 237,
+   "dapan": "Sorry, we don't accept credit cards."
+ },
+ {
+   "id": 238,
+   "dapan": "Sorry, we only accept Cash."
+ },
+ {
+   "id": 239,
+   "dapan": "Across from the post office."
+ },
+ {
+   "id": 240,
+   "dapan": "At 3 o'clock."
+ },
+ {
+   "id": 241,
+   "dapan": "Be quiet."
+ },
+ {
+   "id": 242,
+   "dapan": "Can you recommend a good restaurant?"
+ },
+ {
+   "id": 243,
+   "dapan": "He studies at Boston University."
+ },
+ {
+   "id": 244,
+   "dapan": "Here it is."
+ },
+ {
+   "id": 245,
+   "dapan": "That restaurant is not expensive."
+ },
+ {
+   "id": 246,
+   "dapan": "That's too expensive."
+ },
+ {
+   "id": 247,
+   "dapan": "There are many people here."
+ },
+ {
+   "id": 248,
+   "dapan": "They charge 26 dollars per day."
+ },
+ {
+   "id": 249,
+   "dapan": "What's the exchange rate for dollars?"
+ },
+ {
+   "id": 250,
+   "dapan": "What's the phone number?"
+ },
+ {
+   "id": 251,
+   "dapan": "Where can I buy tickets?"
+ },
+ {
+   "id": 252,
+   "dapan": "Where would you like to meet?"
+ },
+ {
+   "id": 253,
+   "dapan": "Which one is better?"
+ },
+ {
+   "id": 254,
+   "dapan": "Here you are."
+ },
+ {
+   "id": 255,
+   "dapan": "He's in the kitchen."
+ },
+ {
+   "id": 256,
+   "dapan": "How far is it to Chicago?"
+ },
+ {
+   "id": 257,
+   "dapan": "How far is it?"
+ },
+ {
+   "id": 258,
+   "dapan": "How many miles is it to Pennsylvania?"
+ },
+ {
+   "id": 259,
+   "dapan": "I like to watch TV."
+ },
+ {
+   "id": 260,
+   "dapan": "I was going to the library."
+ },
+ {
+   "id": 261,
+   "dapan": "I was in the library."
+ },
+ {
+   "id": 262,
+   "dapan": "I'd like a single room."
+ },
+ {
+   "id": 263,
+   "dapan": "It's delicious!"
+ },
+ {
+   "id": 264,
+   "dapan": "It's half past 11."
+ },
+ {
+   "id": 265,
+   "dapan": "It's less than 5 dollars."
+ },
+ {
+   "id": 266,
+   "dapan": "It's more than 5 dollars."
+ },
+ {
+   "id": 267,
+   "dapan": "It's near the Supermarket."
+ },
+ {
+   "id": 268,
+   "dapan": "it's not suppose to rain today."
+ },
+ {
+   "id": 269,
+   "dapan": "It's ok."
+ },
+ {
+   "id": 270,
+   "dapan": "It's on 7th street."
+ },
+ {
+   "id": 271,
+   "dapan": "It's really hot."
+ },
+ {
+   "id": 272,
+   "dapan": "It's suppose to rain tomorrow."
+ },
+ {
+   "id": 273,
+   "dapan": "Let's go."
+ },
+ {
+   "id": 274,
+   "dapan": "Maybe."
+ },
+ {
+   "id": 275,
+   "dapan": "More than 200 miles."
+ },
+ {
+   "id": 276,
+   "dapan": "My house is close to the bank."
+ },
+ {
+   "id": 277,
+   "dapan": "Near the bank."
+ },
+ {
+   "id": 278,
+   "dapan": "On the left."
+ },
+ {
+   "id": 279,
+   "dapan": "On the right."
+ },
+ {
+   "id": 280,
+   "dapan": "On the second floor."
+ },
+ {
+   "id": 281,
+   "dapan": "Outside the hotel."
+ },
+ {
+   "id": 282,
+   "dapan": "Over here."
+ },
+ {
+   "id": 283,
+   "dapan": "Over there."
+ },
+ {
+   "id": 284,
+   "dapan": "The book is behind the table."
+ },
+ {
+   "id": 285,
+   "dapan": "The book is in front of the table."
+ },
+ {
+   "id": 286,
+   "dapan": "The book is near the table."
+ },
+ {
+   "id": 287,
+   "dapan": "The book is next to the table."
+ },
+ {
+   "id": 288,
+   "dapan": "The book is on top of the table."
+ },
+ {
+   "id": 289,
+   "dapan": "There are some books on the table."
+ },
+ {
+   "id": 290,
+   "dapan": "There's a book under the table."
+ },
+ {
+   "id": 291,
+   "dapan": "We're from California."
+ },
+ {
+   "id": 292,
+   "dapan": "What's the address?"
+ },
+ {
+   "id": 293,
+   "dapan": "Where are you going?"
+ },
+ {
+   "id": 294,
+   "dapan": "Where is it?"
+ },
+ {
+   "id": 295,
+   "dapan": "Where would you like to go?"
+ },
+ {
+   "id": 296,
+   "dapan": "Who won?"
+ },
+ {
+   "id": 297,
+   "dapan": "Can I see your passport please?"
+ },
+ {
+   "id": 298,
+   "dapan": "Can I take a message?"
+ },
+ {
+   "id": 299,
+   "dapan": "Can I try it on?"
+ },
+ {
+   "id": 300,
+   "dapan": "Can we sit over there?"
+ },
+ {
+   "id": 301,
+   "dapan": "Did you come with your family?"
+ },
+ {
+   "id": 302,
+   "dapan": "Do you think it's possible?"
+ },
+ {
+   "id": 303,
+   "dapan": "Here's my number."
+ },
+ {
+   "id": 304,
+   "dapan": "He's not in right now."
+ },
+ {
+   "id": 305,
+   "dapan": "Hi, is Mrs. Smith there, please?"
+ },
+ {
+   "id": 306,
+   "dapan": "I have three children, two girls and one boy."
+ },
+ {
+   "id": 307,
+   "dapan": "I need some tissues."
+ },
+ {
+   "id": 308,
+   "dapan": "I want to give you a gift."
+ },
+ {
+   "id": 309,
+   "dapan": "I'd like some water too, please."
+ },
+ {
+   "id": 310,
+   "dapan": "I'd like to buy a bottle of water, please."
+ },
+ {
+   "id": 311,
+   "dapan": "I'd like to buy something."
+ },
+ {
+   "id": 312,
+   "dapan": "I'd like to go to the store."
+ },
+ {
+   "id": 313,
+   "dapan": "I'd like to rent a car."
+ },
+ {
+   "id": 314,
+   "dapan": "I'd like to send a fax."
+ },
+ {
+   "id": 315,
+   "dapan": "I'd like to send this to America."
+ },
+ {
+   "id": 316,
+   "dapan": "I'd like to speak to Mr. Smith please."
+ },
+ {
+   "id": 317,
+   "dapan": "I'll be right back."
+ },
+ {
+   "id": 318,
+   "dapan": "I'll call back later."
+ },
+ {
+   "id": 319,
+   "dapan": "I'll call you on Friday."
+ },
+ {
+   "id": 320,
+   "dapan": "I'll teach you."
+ },
+ {
+   "id": 321,
+   "dapan": "I'm ok."
+ },
+ {
+   "id": 322,
+   "dapan": "Is there an English speaking guide?"
+ },
+ {
+   "id": 323,
+   "dapan": "Male or female?"
+ },
+ {
+   "id": 324,
+   "dapan": "My cell phone doesn't have good reception."
+ },
+ {
+   "id": 325,
+   "dapan": "My cell phone doesn't work."
+ },
+ {
+   "id": 326,
+   "dapan": "Please take off your shoes."
+ },
+ {
+   "id": 327,
+   "dapan": "Sorry, I think I have the wrong number."
+ },
+ {
+   "id": 328,
+   "dapan": "What is the area code?"
+ },
+ {
+   "id": 329,
+   "dapan": "What's the name of the company you work for?"
+ },
+ {
+   "id": 330,
+   "dapan": "What's wrong?"
+ },
+ {
+   "id": 331,
+   "dapan": "What's your address?"
+ },
+ {
+   "id": 332,
+   "dapan": "Where can I find a hospital?"
+ },
+ {
+   "id": 333,
+   "dapan": "Where's the closest restaurant?"
+ },
+ {
+   "id": 334,
+   "dapan": "Where's the pharmacy?"
+ },
+ {
+   "id": 335,
+   "dapan": "Who are you?"
+ },
+ {
+   "id": 336,
+   "dapan": "Who is that?"
+ },
+ {
+   "id": 337,
+   "dapan": "Who would you like to speak to?"
+ },
+ {
+   "id": 338,
+   "dapan": "Will you take me home?"
+ },
+ {
+   "id": 339,
+   "dapan": "Would you like water or milk?"
+ },
+ {
+   "id": 340,
+   "dapan": "At 7 o'clock at night."
+ },
+ {
+   "id": 341,
+   "dapan": "At 7 o'clock in the morning."
+ },
+ {
+   "id": 342,
+   "dapan": "At what time did it happen?"
+ },
+ {
+   "id": 343,
+   "dapan": "Can I help you?"
+ },
+ {
+   "id": 344,
+   "dapan": "Do you have a swimming pool?"
+ },
+ {
+   "id": 345,
+   "dapan": "Do you have this in size 11?"
+ },
+ {
+   "id": 346,
+   "dapan": "Do you think you'll be back by 11:30?"
+ },
+ {
+   "id": 347,
+   "dapan": "Every week."
+ },
+ {
+   "id": 348,
+   "dapan": "Everyday I get up at 6AM."
+ },
+ {
+   "id": 349,
+   "dapan": "Expiration date."
+ },
+ {
+   "id": 350,
+   "dapan": "11 days ago."
+ },
+ {
+   "id": 351,
+   "dapan": "2 hours."
+ },
+ {
+   "id": 352,
+   "dapan": "A long time ago."
+ },
+ {
+   "id": 353,
+   "dapan": "All day."
+ },
+ {
+   "id": 354,
+   "dapan": "Are they coming this evening?"
+ },
+ {
+   "id": 355,
+   "dapan": "Are you comfortable?"
+ },
+ {
+   "id": 356,
+   "dapan": "Are your children with you?"
+ },
+ {
+   "id": 357,
+   "dapan": "As soon as possible."
+ },
+ {
+   "id": 358,
+   "dapan": "At 3 o'clock in the afternoon."
+ },
+ {
+   "id": 359,
+   "dapan": "At 5th street."
+ },
+ {
+   "id": 360,
+   "dapan": "Have you been waiting long?"
+ },
+ {
+   "id": 361,
+   "dapan": "He'll be back in 20 minutes."
+ },
+ {
+   "id": 362,
+   "dapan": "His family is coming tomorrow."
+ },
+ {
+   "id": 363,
+   "dapan": "How about Saturday?"
+ },
+ {
+   "id": 364,
+   "dapan": "How long are you going to stay in California?"
+ },
+ {
+   "id": 365,
+   "dapan": "How long are you going to stay?"
+ },
+ {
+   "id": 366,
+   "dapan": "How long will it take?"
+ },
+ {
+   "id": 367,
+   "dapan": "How much altogether?"
+ },
+ {
+   "id": 368,
+   "dapan": "How much will it cost?"
+ },
+ {
+   "id": 369,
+   "dapan": "I don't have enough money."
+ },
+ {
+   "id": 370,
+   "dapan": "I'm getting ready to go out."
+ },
+ {
+   "id": 371,
+   "dapan": "I'm just looking."
+ },
+ {
+   "id": 372,
+   "dapan": "I'm worried too."
+ },
+ {
+   "id": 373,
+   "dapan": "It rained very hard today."
+ },
+ {
+   "id": 374,
+   "dapan": "It'll be cold this evening."
+ },
+ {
+   "id": 375,
+   "dapan": "It's 17 dollars."
+ },
+ {
+   "id": 376,
+   "dapan": "It's 6AM."
+ },
+ {
+   "id": 377,
+   "dapan": "It's 8:45."
+ },
+ {
+   "id": 378,
+   "dapan": "It's a quarter to 7."
+ },
+ {
+   "id": 379,
+   "dapan": "It's going to snow today."
+ },
+ {
+   "id": 380,
+   "dapan": "It's here."
+ },
+ {
+   "id": 381,
+   "dapan": "It's there."
+ },
+ {
+   "id": 382,
+   "dapan": "I've already seen it."
+ },
+ {
+   "id": 383,
+   "dapan": "John is going on vacation tomorrow."
+ },
+ {
+   "id": 384,
+   "dapan": "My birthday is August 27th."
+ },
+ {
+   "id": 385,
+   "dapan": "Now or later?"
+ },
+ {
+   "id": 386,
+   "dapan": "October 22nd."
+ },
+ {
+   "id": 387,
+   "dapan": "She wants to know when you're coming."
+ },
+ {
+   "id": 388,
+   "dapan": "Sometimes I go to sleep at 11PM, sometimes at 11:30PM."
+ },
+ {
+   "id": 389,
+   "dapan": "The whole day."
+ },
+ {
+   "id": 390,
+   "dapan": "There's plenty of time."
+ },
+ {
+   "id": 391,
+   "dapan": "We're late."
+ },
+ {
+   "id": 392,
+   "dapan": "What day are they coming over?"
+ },
+ {
+   "id": 393,
+   "dapan": "What day of the week is it?"
+ },
+ {
+   "id": 394,
+   "dapan": "What is today's date?"
+ },
+ {
+   "id": 395,
+   "dapan": "What time are they arriving?"
+ },
+ {
+   "id": 396,
+   "dapan": "What time did you get up?"
+ },
+ {
+   "id": 397,
+   "dapan": "What time did you go to sleep?"
+ },
+ {
+   "id": 398,
+   "dapan": "What time did you wake up?"
+ },
+ {
+   "id": 399,
+   "dapan": "What time do you think you'll arrive?"
+ },
+ {
+   "id": 400,
+   "dapan": "What time does it start?"
+ },
+ {
+   "id": 401,
+   "dapan": "What time is it?"
+ },
+ {
+   "id": 402,
+   "dapan": "What's your religion?"
+ },
+ {
+   "id": 403,
+   "dapan": "When are they coming?"
+ },
+ {
+   "id": 404,
+   "dapan": "When are you coming back?"
+ },
+ {
+   "id": 405,
+   "dapan": "Are you busy?"
+ },
+ {
+   "id": 406,
+   "dapan": "Can we have some more bread please?"
+ },
+ {
+   "id": 407,
+   "dapan": "Do you have any money?"
+ },
+ {
+   "id": 408,
+   "dapan": "For how many nights?"
+ },
+ {
+   "id": 409,
+   "dapan": "How long will you be staying?"
+ },
+ {
+   "id": 410,
+   "dapan": "I need a doctor."
+ },
+ {
+   "id": 411,
+   "dapan": "When are you going to pick up your friend?"
+ },
+ {
+   "id": 412,
+   "dapan": "When are you leaving?"
+ },
+ {
+   "id": 413,
+   "dapan": "When are you moving?"
+ },
+ {
+   "id": 414,
+   "dapan": "When I went to the store, they didn't have any apples."
+ },
+ {
+   "id": 415,
+   "dapan": "When is the next bus to Philidalphia?"
+ },
+ {
+   "id": 416,
+   "dapan": "When is your birthday?"
+ },
+ {
+   "id": 417,
+   "dapan": "When was the last time you talked to your mother?"
+ },
+ {
+   "id": 418,
+   "dapan": "When will he be back?"
+ },
+ {
+   "id": 419,
+   "dapan": "When will it be ready?"
+ },
+ {
+   "id": 420,
+   "dapan": "Where are you going to go?"
+ },
+ {
+   "id": 421,
+   "dapan": "I'd like a map of the city."
+ },
+ {
+   "id": 422,
+   "dapan": "I'd like a non-smoking room."
+ },
+ {
+   "id": 423,
+   "dapan": "I'd like a room with two beds please."
+ },
+ {
+   "id": 424,
+   "dapan": "I'd like a room."
+ },
+ {
+   "id": 425,
+   "dapan": "Is there a nightclub in town?"
+ },
+ {
+   "id": 426,
+   "dapan": "Is there a restaurant in the hotel?"
+ },
+ {
+   "id": 427,
+   "dapan": "Is there a store near here?"
+ },
+ {
+   "id": 428,
+   "dapan": "Sorry, we don't have any vacancies."
+ },
+ {
+   "id": 429,
+   "dapan": "Take me to the Marriott Hotel."
+ },
+ {
+   "id": 430,
+   "dapan": "Are you here alone?"
+ },
+ {
+   "id": 431,
+   "dapan": "Can I bring my friend?"
+ },
+ {
+   "id": 432,
+   "dapan": "Can I have a receipt please?"
+ },
+ {
+   "id": 433,
+   "dapan": "Can it be cheaper?"
+ },
+ {
+   "id": 434,
+   "dapan": "Can we have a menu please."
+ },
+ {
+   "id": 435,
+   "dapan": "Can you hold this for me?"
+ },
+ {
+   "id": 436,
+   "dapan": "Do you have any children?"
+ },
+ {
+   "id": 437,
+   "dapan": "Do you know how much it costs?"
+ },
+ {
+   "id": 438,
+   "dapan": "Have you eaten at that restaurant?"
+ },
+ {
+   "id": 439,
+   "dapan": "Have you eaten yet?"
+ },
+ {
+   "id": 440,
+   "dapan": "Have you ever had Potato soup?"
+ },
+ {
+   "id": 441,
+   "dapan": "He likes juice but he doesn't like milk"
+ },
+ {
+   "id": 442,
+   "dapan": "What time is check out?"
+ },
+ {
+   "id": 443,
+   "dapan": "What's the charge per night?"
+ },
+ {
+   "id": 444,
+   "dapan": "Where is the airport?"
+ },
+ {
+   "id": 445,
+   "dapan": "Where's the mail box?"
+ },
+ {
+   "id": 446,
+   "dapan": "Here is your salad."
+ },
+ {
+   "id": 447,
+   "dapan": "Here's your order."
+ },
+ {
+   "id": 448,
+   "dapan": "How does it taste?"
+ },
+ {
+   "id": 449,
+   "dapan": "How many people?"
+ },
+ {
+   "id": 450,
+   "dapan": "I agree."
+ },
+ {
+   "id": 451,
+   "dapan": "I haven't been there."
+ },
+ {
+   "id": 452,
+   "dapan": "I haven't finished eating."
+ },
+ {
+   "id": 453,
+   "dapan": "I like it."
+ },
+ {
+   "id": 454,
+   "dapan": "I only have 5 dollars."
+ },
+ {
+   "id": 455,
+   "dapan": "I think I need to see a doctor."
+ },
+ {
+   "id": 456,
+   "dapan": "I understand."
+ },
+ {
+   "id": 457,
+   "dapan": "I'd like a table near the window."
+ },
+ {
+   "id": 458,
+   "dapan": "I'd like to call the United States."
+ },
+ {
+   "id": 459,
+   "dapan": "I'll give you a call."
+ },
+ {
+   "id": 460,
+   "dapan": "I'll have a cup of tea please."
+ },
+ {
+   "id": 461,
+   "dapan": "I'll have a glass of water please."
+ },
+ {
+   "id": 462,
+   "dapan": "I'm from America."
+ },
+ {
+   "id": 463,
+   "dapan": "I'm going to bed."
+ },
+ {
+   "id": 464,
+   "dapan": "I'm here on business."
+ },
+ {
+   "id": 465,
+   "dapan": "I'm sorry."
+ },
+ {
+   "id": 466,
+   "dapan": "It's August 25th."
+ },
+ {
+   "id": 467,
+   "dapan": "June 3rd."
+ },
+ {
+   "id": 468,
+   "dapan": "The food was delicious."
+ },
+ {
+   "id": 469,
+   "dapan": "There are some apples in the refrigerator."
+ },
+ {
+   "id": 470,
+   "dapan": "There's a restaurant near here."
+ },
+ {
+   "id": 471,
+   "dapan": "There's a restaurant over there, but I don't think it's very good."
+ },
+ {
+   "id": 472,
+   "dapan": "We can eat Italian or Chinese food."
+ },
+ {
+   "id": 473,
+   "dapan": "We'll have two glasses of water please."
+ },
+ {
+   "id": 474,
+   "dapan": "What are you going to have?"
+ },
+ {
+   "id": 475,
+   "dapan": "What do you recommend?"
+ },
+ {
+   "id": 476,
+   "dapan": "What would you like to drink?"
+ },
+ {
+   "id": 477,
+   "dapan": "What would you like to eat?"
+ },
+ {
+   "id": 478,
+   "dapan": "What's your email address?"
+ },
+ {
+   "id": 479,
+   "dapan": "Where is an ATM?"
+ },
+ {
+   "id": 480,
+   "dapan": "Where is there a doctor who speaks English?"
+ },
+ {
+   "id": 481,
+   "dapan": "Which one?"
+ },
+ {
+   "id": 482,
+   "dapan": "Would you ask him to come here?"
+ },
+ {
+   "id": 483,
+   "dapan": "Would you like a glass of water?"
+ },
+ {
+   "id": 484,
+   "dapan": "Would you like coffee or tea?"
+ },
+ {
+   "id": 485,
+   "dapan": "Would you like some water?"
+ },
+ {
+   "id": 486,
+   "dapan": "Would you like some wine?"
+ },
+ {
+   "id": 487,
+   "dapan": "Would you like something to drink?"
+ },
+ {
+   "id": 488,
+   "dapan": "Would you like to go for a walk?"
+ },
+ {
+   "id": 489,
+   "dapan": "Would you like to watch TV?"
+ },
+ {
+   "id": 490,
+   "dapan": "Are you American?"
+ },
+ {
+   "id": 491,
+   "dapan": "Are you coming this evening?"
+ },
+ {
+   "id": 492,
+   "dapan": "Are you free tonight?"
+ },
+ {
+   "id": 493,
+   "dapan": "Are you going to take a plane or train?"
+ },
+ {
+   "id": 494,
+   "dapan": "Are you hungry?"
+ },
+ {
+   "id": 495,
+   "dapan": "Are you sure?"
+ },
+ {
+   "id": 496,
+   "dapan": "Are you working Tomorrow?"
+ },
+ {
+   "id": 497,
+   "dapan": "Business is good."
+ },
+ {
+   "id": 498,
+   "dapan": "Cheers!"
+ },
+ {
+   "id": 499,
+   "dapan": "Did it snow yesterday?"
+ },
+ {
+   "id": 500,
+   "dapan": "Did you get my email?"
+ },
+ {
+   "id": 501,
+   "dapan": "Did you take your medicine?"
+ },
+ {
+   "id": 502,
+   "dapan": "Do you feel better?"
+ },
+ {
+   "id": 503,
+   "dapan": "Do you go to Florida often?"
+ },
+ {
+   "id": 504,
+   "dapan": "Do you have another one?"
+ },
+ {
+   "id": 505,
+   "dapan": "Do you know where there's a store that sells towels?"
+ },
+ {
+   "id": 506,
+   "dapan": "Do you like it here?"
+ },
+ {
+   "id": 507,
+   "dapan": "Do you like the book?"
+ },
+ {
+   "id": 508,
+   "dapan": "Do you need anything?"
+ },
+ {
+   "id": 509,
+   "dapan": "Do you play any sports?"
+ },
+ {
+   "id": 510,
+   "dapan": "Do you sell medicine?"
+ },
+ {
+   "id": 511,
+   "dapan": "Do you study English?"
+ },
+ {
+   "id": 512,
+   "dapan": "Do you want to come with me?"
+ },
+ {
+   "id": 513,
+   "dapan": "Do you want to go with me?"
+ },
+ {
+   "id": 514,
+   "dapan": "Excuse me."
+ },
+ {
+   "id": 515,
+   "dapan": "Give me a call."
+ },
+ {
+   "id": 516,
+   "dapan": "Has your brother been to California?"
+ },
+ {
+   "id": 517,
+   "dapan": "Have they met her yet?"
+ },
+ {
+   "id": 518,
+   "dapan": "Have you done this before?"
+ },
+ {
+   "id": 519,
+   "dapan": "How long have you been here?"
+ },
+ {
+   "id": 520,
+   "dapan": "How long have you been in America?"
+ },
+ {
+   "id": 521,
+   "dapan": "How long have you lived here?"
+ },
+ {
+   "id": 522,
+   "dapan": "How many children do you have?"
+ },
+ {
+   "id": 523,
+   "dapan": "How many languages do you speak?"
+ },
+ {
+   "id": 524,
+   "dapan": "How many people do you have in your family?"
+ },
+ {
+   "id": 525,
+   "dapan": "How much would you like?"
+ },
+ {
+   "id": 526,
+   "dapan": "How old are you?"
+ },
+ {
+   "id": 527,
+   "dapan": "I bought a shirt yesterday."
+ },
+ {
+   "id": 528,
+   "dapan": "I don't feel well."
+ },
+ {
+   "id": 529,
+   "dapan": "I have pain in my arm."
+ },
+ {
+   "id": 530,
+   "dapan": "I have to wash my clothes."
+ },
+ {
+   "id": 531,
+   "dapan": "I have two sisters."
+ },
+ {
+   "id": 532,
+   "dapan": "I remember."
+ },
+ {
+   "id": 533,
+   "dapan": "I speak a little English."
+ },
+ {
+   "id": 534,
+   "dapan": "I'll tell him you called."
+ },
+ {
+   "id": 535,
+   "dapan": "I'm a size 8."
+ },
+ {
+   "id": 536,
+   "dapan": "I'm allergic to seafood."
+ },
+ {
+   "id": 537,
+   "dapan": "I'm American."
+ },
+ {
+   "id": 538,
+   "dapan": "I'm fine, and you?"
+ },
+ {
+   "id": 539,
+   "dapan": "I'm not afraid."
+ },
+ {
+   "id": 540,
+   "dapan": "I'm sick."
+ },
+ {
+   "id": 541,
+   "dapan": "Is your house like this one?"
+ },
+ {
+   "id": 542,
+   "dapan": "Is your husband also from Boston?"
+ },
+ {
+   "id": 543,
+   "dapan": "It's not very expensive."
+ },
+ {
+   "id": 544,
+   "dapan": "I've been there."
+ },
+ {
+   "id": 545,
+   "dapan": "Let's share."
+ },
+ {
+   "id": 546,
+   "dapan": "My daughter is here."
+ },
+ {
+   "id": 547,
+   "dapan": "My father has been there."
+ },
+ {
+   "id": 548,
+   "dapan": "My father is a lawyer."
+ },
+ {
+   "id": 549,
+   "dapan": "My grandmother passed away last year."
+ },
+ {
+   "id": 550,
+   "dapan": "My name is John Smith."
+ },
+ {
+   "id": 551,
+   "dapan": "My son studies computers."
+ },
+ {
+   "id": 552,
+   "dapan": "My son."
+ },
+ {
+   "id": 553,
+   "dapan": "No, I'm American."
+ },
+ {
+   "id": 554,
+   "dapan": "No, this is the first time."
+ },
+ {
+   "id": 555,
+   "dapan": "Our children are in America."
+ },
+ {
+   "id": 556,
+   "dapan": "She's an expert."
+ },
+ {
+   "id": 557,
+   "dapan": "She's older than me."
+ },
+ {
+   "id": 558,
+   "dapan": "That car is similar to my car."
+ },
+ {
+   "id": 559,
+   "dapan": "This is Mrs. Smith."
+ },
+ {
+   "id": 560,
+   "dapan": "This is my mother."
+ },
+ {
+   "id": 561,
+   "dapan": "This is the first time I've been here."
+ },
+ {
+   "id": 562,
+   "dapan": "We have two boys and one girl."
+ },
+ {
+   "id": 563,
+   "dapan": "What are you going to do tonight?"
+ },
+ {
+   "id": 564,
+   "dapan": "What are your hobbies?"
+ },
+ {
+   "id": 565,
+   "dapan": "What do you study?"
+ },
+ {
+   "id": 566,
+   "dapan": "What do you want to do?"
+ },
+ {
+   "id": 567,
+   "dapan": "What school did you go to?"
+ },
+ {
+   "id": 568,
+   "dapan": "What's your favorite movie?"
+ },
+ {
+   "id": 569,
+   "dapan": "What's your last name?"
+ },
+ {
+   "id": 570,
+   "dapan": "Are there any concerts?"
+ },
+ {
+   "id": 571,
+   "dapan": "Do you want to go to the movies?"
+ },
+ {
+   "id": 572,
+   "dapan": "Have you seen this movie?"
+ },
+ {
+   "id": 573,
+   "dapan": "What's your name?"
+ },
+ {
+   "id": 574,
+   "dapan": "Where are the t-shirts?"
+ },
+ {
+   "id": 575,
+   "dapan": "Where did you go?"
+ },
+ {
+   "id": 576,
+   "dapan": "Where did you learn English?"
+ },
+ {
+   "id": 577,
+   "dapan": "Where did you work before you worked here?"
+ },
+ {
+   "id": 578,
+   "dapan": "Where do you live?"
+ },
+ {
+   "id": 579,
+   "dapan": "Where were you?"
+ },
+ {
+   "id": 580,
+   "dapan": "Who sent this letter?"
+ },
+ {
+   "id": 581,
+   "dapan": "Would you like to buy this?"
+ },
+ {
+   "id": 582,
+   "dapan": "You speak English very well."
+ },
+ {
+   "id": 583,
+   "dapan": "Your children are very well behaved."
+ },
+ {
+   "id": 584,
+   "dapan": "Your daughter."
+ },
+ {
+   "id": 585,
+   "dapan": "You're smarter than him."
+ },
+ {
+   "id": 586,
+   "dapan": "He said you like to watch movies."
+ },
+ {
+   "id": 587,
+   "dapan": "How tall are you?"
+ },
+ {
+   "id": 588,
+   "dapan": "Is the bank far?"
+ },
+ {
+   "id": 589,
+   "dapan": "Is there a movie theater nearby?"
+ },
+ {
+   "id": 590,
+   "dapan": "What do people usually do in the summer in Los Angeles?"
+ },
+ {
+   "id": 591,
+   "dapan": "What kind of music do you like?"
+ },
+ {
+   "id": 592,
+   "dapan": "What time does the movie start?"
+ },
+ {
+   "id": 593,
+   "dapan": "Can I have a glass of water please?"
+ },
+ {
+   "id": 594,
+   "dapan": "Can I use your phone?"
+ },
+ {
+   "id": 595,
+   "dapan": "Do you have any vacancies?"
+ },
+ {
+   "id": 596,
+   "dapan": "Do you have the number for a taxi?"
+ },
+ {
+   "id": 597,
+   "dapan": "Do you know her?"
+ },
+ {
+   "id": 598,
+   "dapan": "Do you know where she is?"
+ },
+ {
+   "id": 599,
+   "dapan": "Do you play basketball?"
+ },
+ {
+   "id": 600,
+   "dapan": "Fill it up, please."
+ },
+ {
+   "id": 601,
+   "dapan": "He needs some new clothes."
+ },
+ {
+   "id": 602,
+   "dapan": "How much is that?"
+ },
+ {
+   "id": 603,
+   "dapan": "How much is this?"
+ },
+ {
+   "id": 604,
+   "dapan": "I believe you."
+ },
+ {
+   "id": 605,
+   "dapan": "What's your favorite food?"
+ },
+ {
+   "id": 606,
+   "dapan": "Who was your teacher?"
+ },
+ {
+   "id": 607,
+   "dapan": "Would you like to have dinner with me?"
+ },
+ {
+   "id": 608,
+   "dapan": "Would you like to rent a movie?"
+ },
+ {
+   "id": 609,
+   "dapan": "I speak two languages."
+ },
+ {
+   "id": 610,
+   "dapan": "I thought he said something else."
+ },
+ {
+   "id": 611,
+   "dapan": "I usually drink coffee at breakfast."
+ },
+ {
+   "id": 612,
+   "dapan": "I'd like the number for the Hilton Hotel please."
+ },
+ {
+   "id": 613,
+   "dapan": "I'd like to buy a phone card please."
+ },
+ {
+   "id": 614,
+   "dapan": "I'd like to go home."
+ },
+ {
+   "id": 615,
+   "dapan": "I'd like to go shopping."
+ },
+ {
+   "id": 616,
+   "dapan": "If you like it I can buy more."
+ },
+ {
+   "id": 617,
+   "dapan": "I'm a beginner."
+ },
+ {
+   "id": 618,
+   "dapan": "I'm full."
+ },
+ {
+   "id": 619,
+   "dapan": "I'm just kidding."
+ },
+ {
+   "id": 620,
+   "dapan": "I'm single."
+ },
+ {
+   "id": 621,
+   "dapan": "It's not too far."
+ },
+ {
+   "id": 622,
+   "dapan": "Sorry, we don't have any."
+ },
+ {
+   "id": 623,
+   "dapan": "The books are expensive."
+ },
+ {
+   "id": 624,
+   "dapan": "Try it on."
+ },
+ {
+   "id": 625,
+   "dapan": "What do you want to buy?"
+ },
+ {
+   "id": 626,
+   "dapan": "Am I pronouncing it correctly?"
+ },
+ {
+   "id": 627,
+   "dapan": "Can you do me a favor?"
+ },
+ {
+   "id": 628,
+   "dapan": "Can you help me?"
+ },
+ {
+   "id": 629,
+   "dapan": "Can you please say that again?"
+ },
+ {
+   "id": 630,
+   "dapan": "Can you show me?"
+ },
+ {
+   "id": 631,
+   "dapan": "Can you throw that away for me?"
+ },
+ {
+   "id": 632,
+   "dapan": "Do you believe that?"
+ },
+ {
+   "id": 633,
+   "dapan": "Do you have a pencil?"
+ },
+ {
+   "id": 634,
+   "dapan": "Do you smoke?"
+ },
+ {
+   "id": 635,
+   "dapan": "Do you speak English?"
+ },
+ {
+   "id": 636,
+   "dapan": "Does anyone here speak English?"
+ },
+ {
+   "id": 637,
+   "dapan": "What size?"
+ },
+ {
+   "id": 638,
+   "dapan": "What time does the store open?"
+ },
+ {
+   "id": 639,
+   "dapan": "When does the plane arrive?"
+ },
+ {
+   "id": 640,
+   "dapan": "Where are you?"
+ },
+ {
+   "id": 641,
+   "dapan": "Would you like something to eat?"
+ },
+ {
+   "id": 642,
+   "dapan": "Don't do that."
+ },
+ {
+   "id": 643,
+   "dapan": "Excuse me, what did you say?"
+ },
+ {
+   "id": 644,
+   "dapan": "Forget it."
+ },
+ {
+   "id": 645,
+   "dapan": "How do you pronounce that?"
+ },
+ {
+   "id": 646,
+   "dapan": "How do you say it in English?"
+ },
+ {
+   "id": 647,
+   "dapan": "How do you spell it?"
+ },
+ {
+   "id": 648,
+   "dapan": "How do you spell the word Seattle?"
+ },
+ {
+   "id": 649,
+   "dapan": "I can swim."
+ },
+ {
+   "id": 650,
+   "dapan": "I can't hear you clearly."
+ },
+ {
+   "id": 651,
+   "dapan": "I don't mind."
+ },
+ {
+   "id": 652,
+   "dapan": "I don't speak English very well."
+ },
+ {
+   "id": 653,
+   "dapan": "I don't think so."
+ },
+ {
+   "id": 654,
+   "dapan": "I don't understand what your saying."
+ },
+ {
+   "id": 655,
+   "dapan": "I think you have too many clothes."
+ },
+ {
+   "id": 656,
+   "dapan": "I trust you."
+ },
+ {
+   "id": 657,
+   "dapan": "I understand now."
+ },
+ {
+   "id": 658,
+   "dapan": "Is there air conditioning in the room?"
+ },
+ {
+   "id": 659,
+   "dapan": "Let's meet in front of the hotel."
+ },
+ {
+   "id": 660,
+   "dapan": "Please sit down."
+ },
+ {
+   "id": 661,
+   "dapan": "Please speak English."
+ },
+ {
+   "id": 662,
+   "dapan": "Please speak more slowly."
+ },
+ {
+   "id": 663,
+   "dapan": "Sorry, I didn't hear clearly."
+ },
+ {
+   "id": 664,
+   "dapan": "That means friend."
+ },
+ {
+   "id": 665,
+   "dapan": "That's wrong."
+ },
+ {
+   "id": 666,
+   "dapan": "Try to say it."
+ },
+ {
+   "id": 667,
+   "dapan": "What does this mean?"
+ },
+ {
+   "id": 668,
+   "dapan": "What does this say?"
+ },
+ {
+   "id": 669,
+   "dapan": "What does this word mean?"
+ },
+ {
+   "id": 670,
+   "dapan": "What's the exchange rate?"
+ },
+ {
+   "id": 671,
+   "dapan": "Whose book is that?"
+ },
+ {
+   "id": 672,
+   "dapan": "Why are you laughing?"
+ },
+ {
+   "id": 673,
+   "dapan": "Why aren't you going?"
+ },
+ {
+   "id": 674,
+   "dapan": "Why did you do that?"
+ },
+ {
+   "id": 675,
+   "dapan": "Are you allergic to anything?"
+ },
+ {
+   "id": 676,
+   "dapan": "Are you ready?"
+ },
+ {
+   "id": 677,
+   "dapan": "Call me."
+ },
+ {
+   "id": 678,
+   "dapan": "Did you send me flowers?"
+ },
+ {
+   "id": 679,
+   "dapan": "Do you sell batteries?"
+ },
+ {
+   "id": 680,
+   "dapan": "I don't care."
+ },
+ {
+   "id": 681,
+   "dapan": "I give up."
+ },
+ {
+   "id": 682,
+   "dapan": "I got in an accident."
+ },
+ {
+   "id": 683,
+   "dapan": "I have a cold."
+ },
+ {
+   "id": 684,
+   "dapan": "I have one in my car."
+ },
+ {
+   "id": 685,
+   "dapan": "I made this cake."
+ },
+ {
+   "id": 686,
+   "dapan": "I still have a lot to do."
+ },
+ {
+   "id": 687,
+   "dapan": "I still haven't decided."
+ },
+ {
+   "id": 688,
+   "dapan": "I'm a teacher."
+ },
+ {
+   "id": 689,
+   "dapan": "I'm self-employed."
+ },
+ {
+   "id": 690,
+   "dapan": "It depends on the weather."
+ },
+ {
+   "id": 691,
+   "dapan": "It's very cold today."
+ },
+ {
+   "id": 692,
+   "dapan": "My luggage is missing."
+ },
+ {
+   "id": 693,
+   "dapan": "My stomach hurts."
+ },
+ {
+   "id": 694,
+   "dapan": "My throat is sore."
+ },
+ {
+   "id": 695,
+   "dapan": "My watch has been stolen."
+ },
+ {
+   "id": 696,
+   "dapan": "Take this medicine."
+ },
+ {
+   "id": 697,
+   "dapan": "The accident happened at the intersection."
+ },
+ {
+   "id": 698,
+   "dapan": "There has been a car accident."
+ },
+ {
+   "id": 699,
+   "dapan": "Where can I exchange U.S. dollars?"
+ },
+ {
+   "id": 700,
+   "dapan": "Where do you work?"
+ },
+ {
+   "id": 701,
+   "dapan": "Where's the nearest hospital?"
+ },
+ {
+   "id": 702,
+   "dapan": "Where's the post office?"
+ },
+ {
+   "id": 703,
+   "dapan": "And you?"
+ },
+ {
+   "id": 704,
+   "dapan": "Anything else?"
+ },
+ {
+   "id": 705,
+   "dapan": "Are they the same?"
+ },
+ {
+   "id": 706,
+   "dapan": "Are you afraid?"
+ },
+ {
+   "id": 707,
+   "dapan": "Are you going to attend their wedding?"
+ },
+ {
+   "id": 708,
+   "dapan": "Are you married?"
+ },
+ {
+   "id": 709,
+   "dapan": "Are you okay?"
+ },
+ {
+   "id": 710,
+   "dapan": "Are you sick?"
+ },
+ {
+   "id": 711,
+   "dapan": "Behind the bank."
+ },
+ {
+   "id": 712,
+   "dapan": "Can I borrow some money?"
+ },
+ {
+   "id": 713,
+   "dapan": "Can I have the bill please?"
+ },
+ {
+   "id": 714,
+   "dapan": "Can you call back later?"
+ },
+ {
+   "id": 715,
+   "dapan": "Can you call me back later?"
+ },
+ {
+   "id": 716,
+   "dapan": "Can you carry this for me?"
+ },
+ {
+   "id": 717,
+   "dapan": "Can you fix this?"
+ },
+ {
+   "id": 718,
+   "dapan": "Can you give me an example?"
+ },
+ {
+   "id": 719,
+   "dapan": "Can you speak louder please?"
+ },
+ {
+   "id": 720,
+   "dapan": "Can you swim?"
+ },
+ {
+   "id": 721,
+   "dapan": "Do you accept U.S. Dollars?"
+ },
+ {
+   "id": 722,
+   "dapan": "Do you have a girlfriend?"
+ },
+ {
+   "id": 723,
+   "dapan": "Do you have a problem?"
+ },
+ {
+   "id": 724,
+   "dapan": "Do you have an appointment?"
+ },
+ {
+   "id": 725,
+   "dapan": "Do you hear that?"
+ },
+ {
+   "id": 726,
+   "dapan": "Do you know how to get to the Marriott Hotel?"
+ },
+ {
+   "id": 727,
+   "dapan": "Do you know what this means?"
+ },
+ {
+   "id": 728,
+   "dapan": "Do you know where I can get a taxi?"
+ },
+ {
+   "id": 729,
+   "dapan": "Do you know where my glasses are?"
+ },
+ {
+   "id": 730,
+   "dapan": "Do you like your co-workers?"
+ },
+ {
+   "id": 731,
+   "dapan": "Do you need anything else?"
+ },
+ {
+   "id": 732,
+   "dapan": "Do you understand?"
+ },
+ {
+   "id": 733,
+   "dapan": "Does he like the school?"
+ },
+ {
+   "id": 734,
+   "dapan": "Give me the pen."
+ },
+ {
+   "id": 735,
+   "dapan": "How do you know?"
+ },
+ {
+   "id": 736,
+   "dapan": "How is she?"
+ },
+ {
+   "id": 737,
+   "dapan": "How long is it?"
+ },
+ {
+   "id": 738,
+   "dapan": "How many?"
+ },
+ {
+   "id": 739,
+   "dapan": "How much is it?"
+ },
+ {
+   "id": 740,
+   "dapan": "I have a lot of things to do."
+ },
+ {
+   "id": 741,
+   "dapan": "In 30 minutes."
+ },
+ {
+   "id": 742,
+   "dapan": "Is anyone else coming?"
+ },
+ {
+   "id": 743,
+   "dapan": "Is everything ok?"
+ },
+ {
+   "id": 744,
+   "dapan": "Is it cold outside?"
+ },
+ {
+   "id": 745,
+   "dapan": "Is it far from here?"
+ },
+ {
+   "id": 746,
+   "dapan": "Is it hot?"
+ },
+ {
+   "id": 747,
+   "dapan": "Is it raining?"
+ },
+ {
+   "id": 748,
+   "dapan": "Is there anything cheaper?"
+ },
+ {
+   "id": 749,
+   "dapan": "Is your son here?"
+ },
+ {
+   "id": 750,
+   "dapan": "Should I wait?"
+ },
+ {
+   "id": 751,
+   "dapan": "The big one or the small one?"
+ },
+ {
+   "id": 752,
+   "dapan": "The cars are American."
+ },
+ {
+   "id": 753,
+   "dapan": "Were there any problems?"
+ },
+ {
+   "id": 754,
+   "dapan": "Were you at the library last night?"
+ },
+ {
+   "id": 755,
+   "dapan": "What are you doing?"
+ },
+ {
+   "id": 756,
+   "dapan": "What are you thinking about?"
+ },
+ {
+   "id": 757,
+   "dapan": "What are you two talking about?"
+ },
+ {
+   "id": 758,
+   "dapan": "What did you do last night?"
+ },
+ {
+   "id": 759,
+   "dapan": "What did you do yesterday?"
+ },
+ {
+   "id": 760,
+   "dapan": "What did you think?"
+ },
+ {
+   "id": 761,
+   "dapan": "What do they study?"
+ },
+ {
+   "id": 762,
+   "dapan": "What do you have?"
+ },
+ {
+   "id": 763,
+   "dapan": "What do you think?"
+ },
+ {
+   "id": 764,
+   "dapan": "What happened?"
+ },
+ {
+   "id": 765,
+   "dapan": "What is it?"
+ },
+ {
+   "id": 766,
+   "dapan": "What is that?"
+ },
+ {
+   "id": 767,
+   "dapan": "What should I wear?"
+ },
+ {
+   "id": 768,
+   "dapan": "What's in it?"
+ },
+ {
+   "id": 769,
+   "dapan": "What's the temperature?"
+ },
+ {
+   "id": 770,
+   "dapan": "What's this?"
+ },
+ {
+   "id": 771,
+   "dapan": "What's up?"
+ },
+ {
+   "id": 772,
+   "dapan": "Where are you from?"
+ },
+ {
+   "id": 773,
+   "dapan": "Where can I rent a car?"
+ },
+ {
+   "id": 774,
+   "dapan": "Where did it happen?"
+ },
+ {
+   "id": 775,
+   "dapan": "Where did you learn it?"
+ },
+ {
+   "id": 776,
+   "dapan": "Where is he from?"
+ },
+ {
+   "id": 777,
+   "dapan": "Where is he?"
+ },
+ {
+   "id": 778,
+   "dapan": "Which is better, the spaghetti or chicken salad?"
+ },
+ {
+   "id": 779,
+   "dapan": "Which one do you want?"
+ },
+ {
+   "id": 780,
+   "dapan": "Which one is cheaper?"
+ },
+ {
+   "id": 781,
+   "dapan": "Which one is the best?"
+ },
+ {
+   "id": 782,
+   "dapan": "Which school does he go to?"
+ },
+ {
+   "id": 783,
+   "dapan": "Who are they?"
+ },
+ {
+   "id": 784,
+   "dapan": "Who are you looking for?"
+ },
+ {
+   "id": 785,
+   "dapan": "Who is it?"
+ },
+ {
+   "id": 786,
+   "dapan": "Who taught you that?"
+ },
+ {
+   "id": 787,
+   "dapan": "Who's calling?"
+ },
+ {
+   "id": 788,
+   "dapan": "Who's that man over there?"
+ },
+ {
+   "id": 789,
+   "dapan": "Why did you say that?"
+ },
+ {
+   "id": 790,
+   "dapan": "Will you pass me the salt please?"
+ },
+ {
+   "id": 791,
+   "dapan": "6 dollars per hour."
+ },
+ {
+   "id": 792,
+   "dapan": "Are you waiting for someone?"
+ },
+ {
+   "id": 793,
+   "dapan": "Are you working today?"
+ },
+ {
+   "id": 794,
+   "dapan": "Bring me my shirt please."
+ },
+ {
+   "id": 795,
+   "dapan": "Do you like to watch TV?"
+ },
+ {
+   "id": 796,
+   "dapan": "Do you like your boss?"
+ },
+ {
+   "id": 797,
+   "dapan": "Have you finished studying?"
+ },
+ {
+   "id": 798,
+   "dapan": "He works at a computer company in New York."
+ },
+ {
+   "id": 799,
+   "dapan": "He's an Engineer."
+ },
+ {
+   "id": 800,
+   "dapan": "He's very hard working."
+ },
+ {
+   "id": 801,
+   "dapan": "How long have you worked here?"
+ },
+ {
+   "id": 802,
+   "dapan": "Will you put this in the car for me?"
+ },
+ {
+   "id": 803,
+   "dapan": "Would you ask him to call me back please?"
+ },
+ {
+   "id": 804,
+   "dapan": "You have a very nice car."
+ },
+ {
+   "id": 805,
+   "dapan": "You look like my sister."
+ },
+ {
+   "id": 806,
+   "dapan": "How many hours a week do you work?"
+ },
+ {
+   "id": 807,
+   "dapan": "How much money do you have?"
+ },
+ {
+   "id": 808,
+   "dapan": "How was the trip?"
+ },
+ {
+   "id": 809,
+   "dapan": "How's the weather?"
+ },
+ {
+   "id": 810,
+   "dapan": "I forget."
+ },
+ {
+   "id": 811,
+   "dapan": "I still have a lot of things to buy."
+ },
+ {
+   "id": 812,
+   "dapan": "I'm good."
+ },
+ {
+   "id": 813,
+   "dapan": "I'm ready."
+ },
+ {
+   "id": 814,
+   "dapan": "I've seen it."
+ },
+ {
+   "id": 815,
+   "dapan": "What do you do for work?"
+ },
+ {
+   "id": 816,
+   "dapan": "What do your parents do for work?"
+ },
+ {
+   "id": 817,
+   "dapan": "What does he do for work?"
+ },
+ {
+   "id": 818,
+   "dapan": "What does your father do for work?"
+ },
+ {
+   "id": 819,
+   "dapan": "What time do you go to work everyday?"
+ },
+ {
+   "id": 820,
+   "dapan": "What's the matter?"
+ },
+ {
+   "id": 821,
+   "dapan": "When do you arrive in the U.S.?"
+ },
+ {
+   "id": 822,
+   "dapan": "Come here."
+ },
+ {
+   "id": 823,
+   "dapan": "Do you think it'll rain today?"
+ },
+ {
+   "id": 824,
+   "dapan": "Do you think it's going to rain tomorrow?"
+ },
+ {
+   "id": 825,
+   "dapan": "Does it often snow in the winter in Massachusetts?"
+ },
+ {
+   "id": 826,
+   "dapan": "How's business?"
+ },
+ {
+   "id": 827,
+   "dapan": "Is it close?"
+ },
+ {
+   "id": 828,
+   "dapan": "Is it possible?"
+ },
+ {
+   "id": 829,
+   "dapan": "Is it ready?"
+ },
+ {
+   "id": 830,
+   "dapan": "It costs 20 dollars per hour."
+ },
+ {
+   "id": 831,
+   "dapan": "It hurts here."
+ },
+ {
+   "id": 832,
+   "dapan": "When do you get off work?"
+ },
+ {
+   "id": 833,
+   "dapan": "Where did you put it?"
+ },
+ {
+   "id": 834,
+   "dapan": "Where do you want to go?"
+ },
+ {
+   "id": 835,
+   "dapan": "Where does it hurt?"
+ },
+ {
+   "id": 836,
+   "dapan": "It will arrive shortly."
+ },
+ {
+   "id": 837,
+   "dapan": "It's far from here."
+ },
+ {
+   "id": 838,
+   "dapan": "It's going to be hot today."
+ },
+ {
+   "id": 839,
+   "dapan": "It's north of here."
+ },
+ {
+   "id": 840,
+   "dapan": "It's over there."
+ },
+ {
+   "id": 841,
+   "dapan": "It's raining."
+ },
+ {
+   "id": 842,
+   "dapan": "It's too late."
+ },
+ {
+   "id": 843,
+   "dapan": "It's very important."
+ },
+ {
+   "id": 844,
+   "dapan": "The roads are slippery."
+ },
+ {
+   "id": 845,
+   "dapan": "What will the weather be like tomorrow?"
+ },
+ {
+   "id": 846,
+   "dapan": "What's the room rate?"
+ },
+ {
+   "id": 847,
+   "dapan": "Do you have anything to declare?"
+ },
+ {
+   "id": 848,
+   "dapan": "Flight BA333 is now boarding."
+ },
+ {
+   "id": 849,
+   "dapan": "Flight UA666 has been cancelled."
+ },
+ {
+   "id": 850,
+   "dapan": "Flight SA999 has been delayed."
+ },
+ {
+   "id": 851,
+   "dapan": "Would passenger Jo Page please come to..."
+ },
+ {
+   "id": 852,
+   "dapan": "It's freezing outside!"
+ },
+ {
+   "id": 853,
+   "dapan": "It's kinda chilly. Wrap up warm."
+ },
+ {
+   "id": 854,
+   "dapan": "It's cold."
+ },
+ {
+   "id": 855,
+   "dapan": "It's like the Arctic out there."
+ },
+ {
+   "id": 856,
+   "dapan": "It's chilly. Take a sweater"
+ },
+ {
+   "id": 857,
+   "dapan": "You can see your breath."
+ },
+ {
+   "id": 858,
+   "dapan": "It's below zero."
+ },
+ {
+   "id": 859,
+   "dapan": "It must be minus five or more."
+ },
+ {
+   "id": 860,
+   "dapan": "It's pretty frosty today."
+ },
+ {
+   "id": 861,
+   "dapan": "I've gotta scrape the windsheild, it's that cold.."
+ },
+ {
+   "id": 862,
+   "dapan": "I'm a hairdresser."
+ },
+ {
+   "id": 863,
+   "dapan": "I'm in hairdressing."
+ },
+ {
+   "id": 864,
+   "dapan": "I work as a hairdresser."
+ },
+ {
+   "id": 865,
+   "dapan": "I'm a professional hairdresser."
+ },
+ {
+   "id": 866,
+   "dapan": "I'm a hair stylist."
+ },
+ {
+   "id": 867,
+   "dapan": "I'm in the hairdressing business."
+ },
+ {
+   "id": 868,
+   "dapan": "I cut hair (for a living)."
+ },
+ {
+   "id": 869,
+   "dapan": "I work for a hairdresser."
+ },
+ {
+   "id": 870,
+   "dapan": "My day job is hairdressing."
+ },
+ {
+   "id": 871,
+   "dapan": "I earn my living as a hairdresser."
+ },
+ {
+   "id": 872,
+   "dapan": "Why don't we go to the cinema?"
+ },
+ {
+   "id": 873,
+   "dapan": "Let's go to the cinema. What do you think?"
+ },
+ {
+   "id": 874,
+   "dapan": "How about going to the cinema?"
+ },
+ {
+   "id": 875,
+   "dapan": "How do you feel about seeing a film?"
+ },
+ {
+   "id": 876,
+   "dapan": "Fancy seeing a film?"
+ },
+ {
+   "id": 877,
+   "dapan": "I'd like to see a film. How about you?"
+ },
+ {
+   "id": 878,
+   "dapan": "We could always see a film."
+ },
+ {
+   "id": 879,
+   "dapan": "Why not go and see a film?"
+ },
+ {
+   "id": 880,
+   "dapan": "Seeing a film's a good idea."
+ },
+ {
+   "id": 881,
+   "dapan": "It would be nice to see a film."
+ },
+ {
+   "id": 882,
+   "dapan": "Can you give me a hand with this?"
+ },
+ {
+   "id": 883,
+   "dapan": "Could you help me for a second?"
+ },
+ {
+   "id": 884,
+   "dapan": "Can I ask a favour?"
+ },
+ {
+   "id": 885,
+   "dapan": "I wonder if you could help me with this?"
+ },
+ {
+   "id": 886,
+   "dapan": "I could do with some help, please."
+ },
+ {
+   "id": 887,
+   "dapan": "I can't manage. Can you help?"
+ },
+ {
+   "id": 888,
+   "dapan": "Give me a hand with this, will you?"
+ },
+ {
+   "id": 889,
+   "dapan": "Lend me a hand with this, will you?"
+ },
+ {
+   "id": 890,
+   "dapan": "Could you spare a moment?"
+ },
+ {
+   "id": 891,
+   "dapan": "I need some help, please."
+ },
+ {
+   "id": 892,
+   "dapan": "Would you mind helping me?"
+ },
+ {
+   "id": 893,
+   "dapan": "Could you help me?"
+ },
+ {
+   "id": 894,
+   "dapan": "Could you help me out?"
+ },
+ {
+   "id": 895,
+   "dapan": "It does nothing for me."
+ },
+ {
+   "id": 896,
+   "dapan": "It's as dull as ditch-water."
+ },
+ {
+   "id": 897,
+   "dapan": "I can't see what all the fuss is about."
+ },
+ {
+   "id": 898,
+   "dapan": "It's as interesting as watching paint dry."
+ },
+ {
+   "id": 899,
+   "dapan": "I'm afraid I don't share your enthusiasm."
+ },
+ {
+   "id": 900,
+   "dapan": "I can't say that I find it interesting."
+ }
+]
