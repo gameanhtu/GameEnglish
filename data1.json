@@ -1,0 +1,1802 @@
+[
+ {
+   "id": 1,
+   "dapan": "Hey man."
+ },
+ {
+   "id": 2,
+   "dapan": "How’s it going? or How are you doing?"
+ },
+ {
+   "id": 3,
+   "dapan": "What’s up?, What’s new?, or What’s going on?"
+ },
+ {
+   "id": 4,
+   "dapan": "How’s everything?, How are things?, or How’s life?"
+ },
+ {
+   "id": 5,
+   "dapan": "How's it going?"
+ },
+ {
+   "id": 6,
+   "dapan": "How do you do?"
+ },
+ {
+   "id": 7,
+   "dapan": "How’s your day? or How’s your day going?"
+ },
+ {
+   "id": 8,
+   "dapan": "Haven't seen you for ages."
+ },
+ {
+   "id": 9,
+   "dapan": "Long time no see or It’s been a while"
+ },
+ {
+   "id": 10,
+   "dapan": "Great to see you again."
+ },
+ {
+   "id": 11,
+   "dapan": "How's tricks?"
+ },
+ {
+   "id": 12,
+   "dapan": "What are you doing?"
+ },
+ {
+   "id": 13,
+   "dapan": "Nice to meet you."
+ },
+ {
+   "id": 14,
+   "dapan": "Bye for now!"
+ },
+ {
+   "id": 15,
+   "dapan": "Be seeing you!"
+ },
+ {
+   "id": 16,
+   "dapan": "See you soon!"
+ },
+ {
+   "id": 17,
+   "dapan": "I'm off."
+ },
+ {
+   "id": 18,
+   "dapan": "Catch you later!"
+ },
+ {
+   "id": 19,
+   "dapan": "Good night!"
+ },
+ {
+   "id": 20,
+   "dapan": "So long."
+ },
+ {
+   "id": 21,
+   "dapan": "Alright then."
+ },
+ {
+   "id": 22,
+   "dapan": "Have a good one."
+ },
+ {
+   "id": 23,
+   "dapan": "Smell you later."
+ },
+ {
+   "id": 24,
+   "dapan": "Thank you very much."
+ },
+ {
+   "id": 25,
+   "dapan": "I really appreciate it."
+ },
+ {
+   "id": 26,
+   "dapan": "You've made my day."
+ },
+ {
+   "id": 27,
+   "dapan": "How thoughtful."
+ },
+ {
+   "id": 28,
+   "dapan": "You shouldn't have."
+ },
+ {
+   "id": 29,
+   "dapan": "That's so kind of you."
+ },
+ {
+   "id": 30,
+   "dapan": "I am most grateful."
+ },
+ {
+   "id": 31,
+   "dapan": "We would like to express our gratitude."
+ },
+ {
+   "id": 32,
+   "dapan": "That's very kind of you."
+ },
+ {
+   "id": 33,
+   "dapan": "Thanks a lot."
+ },
+ {
+   "id": 34,
+   "dapan": "No sweat."
+ },
+ {
+   "id": 35,
+   "dapan": "No problem."
+ },
+ {
+   "id": 36,
+   "dapan": "You're welcome."
+ },
+ {
+   "id": 37,
+   "dapan": "Don't worry about it."
+ },
+ {
+   "id": 38,
+   "dapan": "Don't mention it."
+ },
+ {
+   "id": 39,
+   "dapan": "You're quite welcome."
+ },
+ {
+   "id": 40,
+   "dapan": "No, not at all."
+ },
+ {
+   "id": 41,
+   "dapan": "It's my pleasure."
+ },
+ {
+   "id": 42,
+   "dapan": "It's the least I could do."
+ },
+ {
+   "id": 43,
+   "dapan": "(I'm) Ever so sorry."
+ },
+ {
+   "id": 44,
+   "dapan": "Pardon (me)."
+ },
+ {
+   "id": 45,
+   "dapan": "That's my fault."
+ },
+ {
+   "id": 46,
+   "dapan": "Sorry. It was all my fault."
+ },
+ {
+   "id": 47,
+   "dapan": "Please excuse my (ignorance)."
+ },
+ {
+   "id": 48,
+   "dapan": "Please don't be mad at me."
+ },
+ {
+   "id": 49,
+   "dapan": "Please accept our (sincerest) apologies."
+ },
+ {
+   "id": 50,
+   "dapan": "My mistake.I had that wrong."
+ },
+ {
+   "id": 51,
+   "dapan": "I was wrong on that."
+ },
+ {
+   "id": 52,
+   "dapan": "My bad."
+ },
+ {
+   "id": 53,
+   "dapan": "My fault."
+ },
+ {
+   "id": 54,
+   "dapan": "In a word, no."
+ },
+ {
+   "id": 55,
+   "dapan": "Not on your life."
+ },
+ {
+   "id": 56,
+   "dapan": "Not likely."
+ },
+ {
+   "id": 57,
+   "dapan": "Over my dead body."
+ },
+ {
+   "id": 58,
+   "dapan": "Count me out."
+ },
+ {
+   "id": 59,
+   "dapan": "I'd rather not (if you don't mind)."
+ },
+ {
+   "id": 60,
+   "dapan": "I'd love to, but..."
+ },
+ {
+   "id": 61,
+   "dapan": "No chance."
+ },
+ {
+   "id": 62,
+   "dapan": "No way!"
+ },
+ {
+   "id": 63,
+   "dapan": "That's a great idea."
+ },
+ {
+   "id": 64,
+   "dapan": "That's an idea."
+ },
+ {
+   "id": 65,
+   "dapan": "I think that's a fantastic idea."
+ },
+ {
+   "id": 66,
+   "dapan": "I like that idea."
+ },
+ {
+   "id": 67,
+   "dapan": "I like the idea of that."
+ },
+ {
+   "id": 68,
+   "dapan": "That's not a bad idea."
+ },
+ {
+   "id": 69,
+   "dapan": "You know what? That's a good idea."
+ },
+ {
+   "id": 70,
+   "dapan": "He knows all about photography."
+ },
+ {
+   "id": 71,
+   "dapan": "He's a camera expert."
+ },
+ {
+   "id": 72,
+   "dapan": "He's an expert on digital cameras."
+ },
+ {
+   "id": 73,
+   "dapan": "There's nothing he doesn't know about X."
+ },
+ {
+   "id": 74,
+   "dapan": "He knows photography inside out."
+ },
+ {
+   "id": 75,
+   "dapan": "You wouldn't believe what he knows about X."
+ },
+ {
+   "id": 76,
+   "dapan": "He's a walking encyclopaedia of X."
+ },
+ {
+   "id": 77,
+   "dapan": "Photography's his subject."
+ },
+ {
+   "id": 78,
+   "dapan": "He knows it from A - Z."
+ },
+ {
+   "id": 79,
+   "dapan": "He's an authority on digital cameras."
+ },
+ {
+   "id": 80,
+   "dapan": "Good for you!"
+ },
+ {
+   "id": 81,
+   "dapan": "That’s really nice."
+ },
+ {
+   "id": 82,
+   "dapan": "That’s the best ever."
+ },
+ {
+   "id": 83,
+   "dapan": "You did that very well."
+ },
+ {
+   "id": 84,
+   "dapan": "That’s great!"
+ },
+ {
+   "id": 85,
+   "dapan": "You’ve got it made."
+ },
+ {
+   "id": 86,
+   "dapan": "Way to go!"
+ },
+ {
+   "id": 87,
+   "dapan": "Terrific!"
+ },
+ {
+   "id": 88,
+   "dapan": "That’s the way to do it!"
+ },
+ {
+   "id": 89,
+   "dapan": "That’s not bad!"
+ },
+ {
+   "id": 90,
+   "dapan": "That’s quite an improvement."
+ },
+ {
+   "id": 91,
+   "dapan": "Couldn’t have done it better myself."
+ },
+ {
+   "id": 92,
+   "dapan": "Good thinking."
+ },
+ {
+   "id": 93,
+   "dapan": "Marvelous."
+ },
+ {
+   "id": 94,
+   "dapan": "You really are going to town."
+ },
+ {
+   "id": 95,
+   "dapan": "You’re doing fine."
+ },
+ {
+   "id": 96,
+   "dapan": "Keep up the good work."
+ },
+ {
+   "id": 97,
+   "dapan": "You’re really improving."
+ },
+ {
+   "id": 98,
+   "dapan": "That’s it!"
+ },
+ {
+   "id": 99,
+   "dapan": "You’re on the right track now!"
+ },
+ {
+   "id": 100,
+   "dapan": "That’s better."
+ },
+ {
+   "id": 101,
+   "dapan": "It's a breeze."
+ },
+ {
+   "id": 102,
+   "dapan": "Easy peasy."
+ },
+ {
+   "id": 103,
+   "dapan": "It's a cinch."
+ },
+ {
+   "id": 104,
+   "dapan": "There's nothing to it."
+ },
+ {
+   "id": 105,
+   "dapan": "Anyone can do it."
+ },
+ {
+   "id": 106,
+   "dapan": "It's child's play."
+ },
+ {
+   "id": 107,
+   "dapan": "It's a walk in the park."
+ },
+ {
+   "id": 108,
+   "dapan": "It's not rocket science."
+ },
+ {
+   "id": 109,
+   "dapan": "I can do it with my eyes shut."
+ },
+ {
+   "id": 110,
+   "dapan": "It's not so easy..."
+ },
+ {
+   "id": 111,
+   "dapan": "It's a bit tricky..."
+ },
+ {
+   "id": 112,
+   "dapan": "It's not the easiest ___ in the world..."
+ },
+ {
+   "id": 113,
+   "dapan": "It's quite tough at times..."
+ },
+ {
+   "id": 114,
+   "dapan": "It's nearly impossible.."
+ },
+ {
+   "id": 115,
+   "dapan": "The course can be gruelling at times."
+ },
+ {
+   "id": 116,
+   "dapan": "It's not a walk in the park"
+ },
+ {
+   "id": 117,
+   "dapan": "You're quite right."
+ },
+ {
+   "id": 118,
+   "dapan": "Yes, that's correct."
+ },
+ {
+   "id": 119,
+   "dapan": "You're dead right."
+ },
+ {
+   "id": 120,
+   "dapan": "Absolutely."
+ },
+ {
+   "id": 121,
+   "dapan": "You've hit the nail on the head."
+ },
+ {
+   "id": 122,
+   "dapan": "You could say so."
+ },
+ {
+   "id": 123,
+   "dapan": "(I'm) sorry to say so."
+ },
+ {
+   "id": 124,
+   "dapan": "I'm afraid that's not quite right."
+ },
+ {
+   "id": 125,
+   "dapan": "Actually, I think you'll find that..."
+ },
+ {
+   "id": 126,
+   "dapan": "I'm afraid you're mistaken."
+ },
+ {
+   "id": 127,
+   "dapan": "I don't think you're right about..."
+ },
+ {
+   "id": 128,
+   "dapan": "Actually, I don't think..."
+ },
+ {
+   "id": 129,
+   "dapan": "No, you've got it wrong."
+ },
+ {
+   "id": 130,
+   "dapan": "No, that's all wrong."
+ },
+ {
+   "id": 131,
+   "dapan": "Where did you hear that?"
+ },
+ {
+   "id": 132,
+   "dapan": "If you check your facts, you'll find..."
+ },
+ {
+   "id": 133,
+   "dapan": "I reckon..."
+ },
+ {
+   "id": 134,
+   "dapan": "I'd say..."
+ },
+ {
+   "id": 135,
+   "dapan": "Personally, I think..."
+ },
+ {
+   "id": 136,
+   "dapan": "My take on it is..."
+ },
+ {
+   "id": 137,
+   "dapan": "If you ask me..."
+ },
+ {
+   "id": 138,
+   "dapan": "The way I see it..."
+ },
+ {
+   "id": 139,
+   "dapan": "As far as I'm concerned..."
+ },
+ {
+   "id": 140,
+   "dapan": "If you don't mind me saying..."
+ },
+ {
+   "id": 141,
+   "dapan": "I'm utterly convinced that..."
+ },
+ {
+   "id": 142,
+   "dapan": "In my humble opinion..."
+ },
+ {
+   "id": 143,
+   "dapan": "In my experience..."
+ },
+ {
+   "id": 144,
+   "dapan": "Speaking for myself..."
+ },
+ {
+   "id": 145,
+   "dapan": "I’d say that..."
+ },
+ {
+   "id": 146,
+   "dapan": "I’d like to point out that..."
+ },
+ {
+   "id": 147,
+   "dapan": "Off the top of my head, I think she's 26."
+ },
+ {
+   "id": 148,
+   "dapan": "Knowing (the English), he likes football."
+ },
+ {
+   "id": 149,
+   "dapan": "If I had to take a guess, I'd say she's 26."
+ },
+ {
+   "id": 150,
+   "dapan": "I'd say she's 26."
+ },
+ {
+   "id": 151,
+   "dapan": "Chances are she's 26."
+ },
+ {
+   "id": 152,
+   "dapan": "At a guess, I'd say she's 26."
+ },
+ {
+   "id": 153,
+   "dapan": "Probably about 26."
+ },
+ {
+   "id": 154,
+   "dapan": "We're talking maybe late twenties."
+ },
+ {
+   "id": 155,
+   "dapan": "About 6-ish."
+ },
+ {
+   "id": 156,
+   "dapan": "Around about 6 o'clock."
+ },
+ {
+   "id": 157,
+   "dapan": "I reckon you should stop now."
+ },
+ {
+   "id": 158,
+   "dapan": "Why don't you stop now?"
+ },
+ {
+   "id": 159,
+   "dapan": "How about stopping now?"
+ },
+ {
+   "id": 160,
+   "dapan": "If I were you, I'd stop now."
+ },
+ {
+   "id": 161,
+   "dapan": "I suggest you stop now."
+ },
+ {
+   "id": 162,
+   "dapan": "You'd (really) better stop right now."
+ },
+ {
+   "id": 163,
+   "dapan": "I would strongly advise you to stop."
+ },
+ {
+   "id": 164,
+   "dapan": "My advice would be to stop now."
+ },
+ {
+   "id": 165,
+   "dapan": "It might be a good idea to stop."
+ },
+ {
+   "id": 166,
+   "dapan": "I hope it's sunny tomorrow."
+ },
+ {
+   "id": 167,
+   "dapan": "I'm hoping it'll be sunny tomorrow."
+ },
+ {
+   "id": 168,
+   "dapan": "Hopefully, it'll be sunny tomorrow."
+ },
+ {
+   "id": 169,
+   "dapan": "Let's hope it's sunny tomorrow."
+ },
+ {
+   "id": 170,
+   "dapan": "Here's hoping we have a sunny day."
+ },
+ {
+   "id": 171,
+   "dapan": "If we're lucky, it'll be sunny tomorrow."
+ },
+ {
+   "id": 172,
+   "dapan": "With any luck, it'll be sunny tomorrow."
+ },
+ {
+   "id": 173,
+   "dapan": "I'm keeping my fingers crossed for..."
+ },
+ {
+   "id": 174,
+   "dapan": "I'm (really) counting on it being sunny."
+ },
+ {
+   "id": 175,
+   "dapan": "It's probably going to rain tomorrow."
+ },
+ {
+   "id": 176,
+   "dapan": "There's a (good) chance it'll rain..."
+ },
+ {
+   "id": 177,
+   "dapan": "In all probability, it'll rain..."
+ },
+ {
+   "id": 178,
+   "dapan": "The odds are it'll rain tomorrow."
+ },
+ {
+   "id": 179,
+   "dapan": "I wouldn't be surprised if it rained..."
+ },
+ {
+   "id": 180,
+   "dapan": "There's a fifty-fifty chance of rain..."
+ },
+ {
+   "id": 181,
+   "dapan": "It's quite likely it'll rain..."
+ },
+ {
+   "id": 182,
+   "dapan": "Maybe it'll rain tomorrow."
+ },
+ {
+   "id": 183,
+   "dapan": "There's (just) a chance it'll rain."
+ },
+ {
+   "id": 184,
+   "dapan": "Don't forget to do it."
+ },
+ {
+   "id": 185,
+   "dapan": "Remember to do it."
+ },
+ {
+   "id": 186,
+   "dapan": "You will remember to do it."
+ },
+ {
+   "id": 187,
+   "dapan": "You won't forget to do it, will"
+ },
+ {
+   "id": 188,
+   "dapan": "I'd like to remind you about..."
+ },
+ {
+   "id": 189,
+   "dapan": "You haven't forgotten about ..., have you?"
+ },
+ {
+   "id": 190,
+   "dapan": "I hope you haven't forgotten to..."
+ },
+ {
+   "id": 191,
+   "dapan": "Sorry to be a bore but do you remember to."
+ },
+ {
+   "id": 192,
+   "dapan": "I'm really into it."
+ },
+ {
+   "id": 193,
+   "dapan": "I'm stoked on it."
+ },
+ {
+   "id": 194,
+   "dapan": "I'm fond of it."
+ },
+ {
+   "id": 195,
+   "dapan": "It appeals to me."
+ },
+ {
+   "id": 196,
+   "dapan": "It goes down well (with people"
+ },
+ {
+   "id": 197,
+   "dapan": "I'm crazy about it."
+ },
+ {
+   "id": 198,
+   "dapan": "I'm mad about it."
+ },
+ {
+   "id": 199,
+   "dapan": "I'm attached to it."
+ },
+ {
+   "id": 200,
+   "dapan": "I'm passionate about it."
+ },
+ {
+   "id": 201,
+   "dapan": "I'm addicted to it."
+ },
+ {
+   "id": 202,
+   "dapan": "I've grown to like it."
+ },
+ {
+   "id": 203,
+   "dapan": "I don't really like cheating."
+ },
+ {
+   "id": 204,
+   "dapan": "Cheating is not very me."
+ },
+ {
+   "id": 205,
+   "dapan": "Cheating is not my style."
+ },
+ {
+   "id": 206,
+   "dapan": "Cheating doesn't do anything for me."
+ },
+ {
+   "id": 207,
+   "dapan": "Cheating is not my thing."
+ },
+ {
+   "id": 208,
+   "dapan": "I'm not into cheating."
+ },
+ {
+   "id": 209,
+   "dapan": "Cheating sucks."
+ },
+ {
+   "id": 210,
+   "dapan": "I'm not a big fan of cheating."
+ },
+ {
+   "id": 211,
+   "dapan": "I never listen to cheating."
+ },
+ {
+   "id": 212,
+   "dapan": "You can keep cheating."
+ },
+ {
+   "id": 213,
+   "dapan": "I'm not fond of it."
+ },
+ {
+   "id": 214,
+   "dapan": "I'm not crazy about it."
+ },
+ {
+   "id": 215,
+   "dapan": "I don't appreciate that."
+ },
+ {
+   "id": 216,
+   "dapan": "That's not for me."
+ },
+ {
+   "id": 217,
+   "dapan": "I wouldn't mind a..."
+ },
+ {
+   "id": 218,
+   "dapan": "I could (really) do with a..."
+ },
+ {
+   "id": 219,
+   "dapan": "I could use a..."
+ },
+ {
+   "id": 220,
+   "dapan": "All (that) we need is a day off."
+ },
+ {
+   "id": 221,
+   "dapan": "Ideally, what I'd like is a day off."
+ },
+ {
+   "id": 222,
+   "dapan": "A (bunch of red roses) would be"
+ },
+ {
+   "id": 223,
+   "dapan": "Suck it up."
+ },
+ {
+   "id": 224,
+   "dapan": "Cheer up."
+ },
+ {
+   "id": 225,
+   "dapan": "Never mind."
+ },
+ {
+   "id": 226,
+   "dapan": "No harm done."
+ },
+ {
+   "id": 227,
+   "dapan": "Everything will be ok."
+ },
+ {
+   "id": 228,
+   "dapan": "Cheer up!"
+ },
+ {
+   "id": 229,
+   "dapan": "It's not the end of the world."
+ },
+ {
+   "id": 230,
+   "dapan": "Worse things happen at sea."
+ },
+ {
+   "id": 231,
+   "dapan": "Look on the bright side..."
+ },
+ {
+   "id": 232,
+   "dapan": "Every cloud (has a silver lining)."
+ },
+ {
+   "id": 233,
+   "dapan": "Practice makes perfect."
+ },
+ {
+   "id": 234,
+   "dapan": "There are plenty more fish in the sea."
+ },
+ {
+   "id": 235,
+   "dapan": "Lighten up!"
+ },
+ {
+   "id": 236,
+   "dapan": "There's no use crying over spilt milk."
+ },
+ {
+   "id": 237,
+   "dapan": "Chin up!"
+ },
+ {
+   "id": 238,
+   "dapan": "What a surprise!"
+ },
+ {
+   "id": 239,
+   "dapan": "No way!"
+ },
+ {
+   "id": 240,
+   "dapan": "That's the last thing I expected."
+ },
+ {
+   "id": 241,
+   "dapan": "You're kidding!"
+ },
+ {
+   "id": 242,
+   "dapan": "I'm speechless!"
+ },
+ {
+   "id": 243,
+   "dapan": "I'd never have guessed."
+ },
+ {
+   "id": 244,
+   "dapan": "You don't say!"
+ },
+ {
+   "id": 245,
+   "dapan": "This is such a nice surprise, thanks so much for this."
+ },
+ {
+   "id": 246,
+   "dapan": "Unbelievable, I never expected it."
+ },
+ {
+   "id": 247,
+   "dapan": "1Oh my gosh, this is wild, I didn't have a clue about this."
+ },
+ {
+   "id": 248,
+   "dapan": "Wow, how awesome is that?! I was completely surprised."
+ },
+ {
+   "id": 249,
+   "dapan": "It's great."
+ },
+ {
+   "id": 250,
+   "dapan": "It's fantastic."
+ },
+ {
+   "id": 251,
+   "dapan": "It's excellent."
+ },
+ {
+   "id": 252,
+   "dapan": "It's better than average."
+ },
+ {
+   "id": 253,
+   "dapan": "It's not bad."
+ },
+ {
+   "id": 254,
+   "dapan": "I'd recommend it."
+ },
+ {
+   "id": 255,
+   "dapan": "I'm very impressed."
+ },
+ {
+   "id": 256,
+   "dapan": "It's better than I expected."
+ },
+ {
+   "id": 257,
+   "dapan": "Awesome!"
+ },
+ {
+   "id": 258,
+   "dapan": "That's right!"
+ },
+ {
+   "id": 259,
+   "dapan": "That's good."
+ },
+ {
+   "id": 260,
+   "dapan": "Good for you!"
+ },
+ {
+   "id": 261,
+   "dapan": "I don't believe it!"
+ },
+ {
+   "id": 262,
+   "dapan": "What a pain!"
+ },
+ {
+   "id": 263,
+   "dapan": "It's driving me up the wall."
+ },
+ {
+   "id": 264,
+   "dapan": "I've had it up to here with..."
+ },
+ {
+   "id": 265,
+   "dapan": "I've had all I can take of..."
+ },
+ {
+   "id": 266,
+   "dapan": "It really gets on my nerves."
+ },
+ {
+   "id": 267,
+   "dapan": "I'm sick and tired of..."
+ },
+ {
+   "id": 268,
+   "dapan": "I'm fed up with it."
+ },
+ {
+   "id": 269,
+   "dapan": "I could really do without it."
+ },
+ {
+   "id": 270,
+   "dapan": "Is it possible?"
+ },
+ {
+   "id": 271,
+   "dapan": "I'm fine thank you."
+ },
+ {
+   "id": 272,
+   "dapan": "Couldn't be better."
+ },
+ {
+   "id": 273,
+   "dapan": "Fit as a fiddle."
+ },
+ {
+   "id": 274,
+   "dapan": "Very well, thanks."
+ },
+ {
+   "id": 275,
+   "dapan": "Not bad."
+ },
+ {
+   "id": 276,
+   "dapan": "Much better."
+ },
+ {
+   "id": 277,
+   "dapan": "All the better for seeing you."
+ },
+ {
+   "id": 278,
+   "dapan": "Thank God (for that)!"
+ },
+ {
+   "id": 279,
+   "dapan": "What a relief!"
+ },
+ {
+   "id": 280,
+   "dapan": "I'm so relieved to hear that."
+ },
+ {
+   "id": 281,
+   "dapan": "That's a weight off my mind."
+ },
+ {
+   "id": 282,
+   "dapan": "You've no idea what a relief it is to hear."
+ },
+ {
+   "id": 283,
+   "dapan": "That's one less thing to worry about."
+ },
+ {
+   "id": 284,
+   "dapan": "What a stroke of luck!"
+ },
+ {
+   "id": 285,
+   "dapan": "I'm (so) worried about..."
+ },
+ {
+   "id": 286,
+   "dapan": "I'm afraid..."
+ },
+ {
+   "id": 287,
+   "dapan": "I can't help thinking..."
+ },
+ {
+   "id": 288,
+   "dapan": "I can't stop thinking about it."
+ },
+ {
+   "id": 289,
+   "dapan": "I've been worried sick about...."
+ },
+ {
+   "id": 290,
+   "dapan": "It's been keeping me awake at night"
+ },
+ {
+   "id": 291,
+   "dapan": "I'm really nervous."
+ },
+ {
+   "id": 292,
+   "dapan": "I've got butterflies in my stomach."
+ },
+ {
+   "id": 293,
+   "dapan": "I'm absolutely dreading..."
+ },
+ {
+   "id": 294,
+   "dapan": "What a bore!"
+ },
+ {
+   "id": 295,
+   "dapan": "It bores me to tears."
+ },
+ {
+   "id": 296,
+   "dapan": "It leaves me cold."
+ },
+ {
+   "id": 297,
+   "dapan": "It does nothing for me."
+ },
+ {
+   "id": 298,
+   "dapan": "It's as dull as ditch-water."
+ },
+ {
+   "id": 299,
+   "dapan": "I can't see what all the fuss is about."
+ },
+ {
+   "id": 300,
+   "dapan": "It's as interesting as watching paint dry."
+ },
+ {
+   "id": 301,
+   "dapan": "I'm afraid I don't share your enthusiasm."
+ },
+ {
+   "id": 302,
+   "dapan": "I can't say that I find it interesting."
+ },
+ {
+   "id": 303,
+   "dapan": "Sorry. I don't know."
+ },
+ {
+   "id": 304,
+   "dapan": "(I'm afraid,) I've no idea."
+ },
+ {
+   "id": 305,
+   "dapan": "(Sorry,) I can't help you there."
+ },
+ {
+   "id": 306,
+   "dapan": "I don't know anything about...(cars)"
+ },
+ {
+   "id": 307,
+   "dapan": "I don't know the first thing about (cars)."
+ },
+ {
+   "id": 308,
+   "dapan": "I haven't got a clue."
+ },
+ {
+   "id": 309,
+   "dapan": "Search me."
+ },
+ {
+   "id": 310,
+   "dapan": "Don't ask me."
+ },
+ {
+   "id": 311,
+   "dapan": "Why don't we go to the cinema?"
+ },
+ {
+   "id": 312,
+   "dapan": "Let's go to the cinema. What do you think?"
+ },
+ {
+   "id": 313,
+   "dapan": "How about going to the cinema?"
+ },
+ {
+   "id": 314,
+   "dapan": "How do you feel about seeing a film?"
+ },
+ {
+   "id": 315,
+   "dapan": "Fancy seeing a film?"
+ },
+ {
+   "id": 316,
+   "dapan": "I'd like to see a film. How about you?"
+ },
+ {
+   "id": 317,
+   "dapan": "We could always see a film."
+ },
+ {
+   "id": 318,
+   "dapan": "Why not go and see a film?"
+ },
+ {
+   "id": 319,
+   "dapan": "Seeing a film's a good idea."
+ },
+ {
+   "id": 320,
+   "dapan": "It would be nice to see a film."
+ },
+ {
+   "id": 321,
+   "dapan": "Can you give me a hand with this?"
+ },
+ {
+   "id": 322,
+   "dapan": "Could you help me for a second?"
+ },
+ {
+   "id": 323,
+   "dapan": "Can I ask a favour?"
+ },
+ {
+   "id": 324,
+   "dapan": "I wonder if you could help me with this?"
+ },
+ {
+   "id": 325,
+   "dapan": "I could do with some help, please."
+ },
+ {
+   "id": 326,
+   "dapan": "I can't manage. Can you help?"
+ },
+ {
+   "id": 327,
+   "dapan": "Give me a hand with this, will you?"
+ },
+ {
+   "id": 328,
+   "dapan": "Lend me a hand with this, will you?"
+ },
+ {
+   "id": 329,
+   "dapan": "Could you spare a moment?"
+ },
+ {
+   "id": 330,
+   "dapan": "I need some help, please."
+ },
+ {
+   "id": 331,
+   "dapan": "Would you mind helping me?"
+ },
+ {
+   "id": 332,
+   "dapan": "Could you help me?"
+ },
+ {
+   "id": 333,
+   "dapan": "Could you help me out?"
+ },
+ {
+   "id": 334,
+   "dapan": "Could you do me a favor?"
+ },
+ {
+   "id": 335,
+   "dapan": "Could you give me a hand?"
+ },
+ {
+   "id": 336,
+   "dapan": "What do you think of...?"
+ },
+ {
+   "id": 337,
+   "dapan": "What do you think about...?"
+ },
+ {
+   "id": 338,
+   "dapan": "How d'you feel (about...)?"
+ },
+ {
+   "id": 339,
+   "dapan": "What d'you reckon (about...)?"
+ },
+ {
+   "id": 340,
+   "dapan": "What's your opinion of...?"
+ },
+ {
+   "id": 341,
+   "dapan": "(What do think about) that?"
+ },
+ {
+   "id": 342,
+   "dapan": "What are your views on...?"
+ },
+ {
+   "id": 343,
+   "dapan": "Where do you stand (on...)?"
+ },
+ {
+   "id": 344,
+   "dapan": "Are you aware of.....?"
+ },
+ {
+   "id": 345,
+   "dapan": "What’s your view?"
+ },
+ {
+   "id": 346,
+   "dapan": "How do you see the situation?"
+ },
+ {
+   "id": 347,
+   "dapan": "Can you tell me...?"
+ },
+ {
+   "id": 348,
+   "dapan": "Could you tell me...?"
+ },
+ {
+   "id": 349,
+   "dapan": "I'd like to know..."
+ },
+ {
+   "id": 350,
+   "dapan": "D'you know..."
+ },
+ {
+   "id": 351,
+   "dapan": "Have you got any idea...?"
+ },
+ {
+   "id": 352,
+   "dapan": "Could anyone tell me...?"
+ },
+ {
+   "id": 353,
+   "dapan": "I don't suppose you (would) know...?"
+ },
+ {
+   "id": 354,
+   "dapan": "I wonder if you could tell me...?"
+ },
+ {
+   "id": 355,
+   "dapan": "I wonder if someone could tell me...?"
+ },
+ {
+   "id": 356,
+   "dapan": "Would you mind + verb + ing...?"
+ },
+ {
+   "id": 357,
+   "dapan": "How are you?"
+ },
+ {
+   "id": 358,
+   "dapan": "How are things?"
+ },
+ {
+   "id": 359,
+   "dapan": "How's things?"
+ },
+ {
+   "id": 360,
+   "dapan": "How's it going?"
+ },
+ {
+   "id": 361,
+   "dapan": "How are you getting on?"
+ },
+ {
+   "id": 362,
+   "dapan": "How have you been?"
+ },
+ {
+   "id": 363,
+   "dapan": "What have you been (getting) up to?"
+ },
+ {
+   "id": 364,
+   "dapan": "I hope everything's okay?"
+ },
+ {
+   "id": 365,
+   "dapan": "How have you been keeping?"
+ },
+ {
+   "id": 366,
+   "dapan": "They're on aisle 7 (next to the cakes)."
+ },
+ {
+   "id": 367,
+   "dapan": "Sorry, it's out of stock at the moment."
+ },
+ {
+   "id": 368,
+   "dapan": "I'm afraid it's been discontinued."
+ },
+ {
+   "id": 369,
+   "dapan": "How would you like to pay?"
+ },
+ {
+   "id": 370,
+   "dapan": "Do you need any help packing?"
+ },
+ {
+   "id": 371,
+   "dapan": "I can manage myself thank you. Would you like a bag for ten cent extra?"
+ },
+ {
+   "id": 372,
+   "dapan": "How much is this dress?"
+ },
+ {
+   "id": 373,
+   "dapan": "Please enter your PIN number."
+ },
+ {
+   "id": 374,
+   "dapan": "Would you like a receipt?"
+ },
+ {
+   "id": 375,
+   "dapan": "Do you have non-fat milk?"
+ },
+ {
+   "id": 376,
+   "dapan": "Is this on sale?"
+ },
+ {
+   "id": 377,
+   "dapan": "Please sign here."
+ },
+ {
+   "id": 378,
+   "dapan": "Here’s your change."
+ },
+ {
+   "id": 379,
+   "dapan": "How may I help you?"
+ },
+ {
+   "id": 380,
+   "dapan": "Sorry, it’s out of stock."
+ },
+ {
+   "id": 381,
+   "dapan": "How much would you like?"
+ },
+ {
+   "id": 382,
+   "dapan": "What times are you open?"
+ },
+ {
+   "id": 383,
+   "dapan": "What time do you close?"
+ },
+ {
+   "id": 384,
+   "dapan": "I'll call you later."
+ },
+ {
+   "id": 385,
+   "dapan": "Leave a message."
+ },
+ {
+   "id": 386,
+   "dapan": "Hi Simon, it's Anna."
+ },
+ {
+   "id": 387,
+   "dapan": "Did you get my message?"
+ },
+ {
+   "id": 388,
+   "dapan": "Can I speak to Rob, please?"
+ },
+ {
+   "id": 389,
+   "dapan": "Hi, Jenny. Where are you?"
+ },
+ {
+   "id": 390,
+   "dapan": "Thanks for getting back to me."
+ },
+ {
+   "id": 391,
+   "dapan": "Leave a message after the beep."
+ },
+ {
+   "id": 392,
+   "dapan": "What's your number?"
+ },
+ {
+   "id": 393,
+   "dapan": "I'm returning your call."
+ },
+ {
+   "id": 394,
+   "dapan": "Could I ask who’s calling, please?"
+ },
+ {
+   "id": 395,
+   "dapan": "When is a good time to call?"
+ },
+ {
+   "id": 396,
+   "dapan": "What is the purpose of your trip?"
+ },
+ {
+   "id": 397,
+   "dapan": "Did you pack this bag yourself?"
+ },
+ {
+   "id": 398,
+   "dapan": "Please do not leave any bags unattended."
+ },
+ {
+   "id": 399,
+   "dapan": "Do you have anything to declare?"
+ },
+ {
+   "id": 400,
+   "dapan": "Flight BA333 is now boarding."
+ },
+ {
+   "id": 401,
+   "dapan": "Flight UA666 has been cancelled."
+ },
+ {
+   "id": 402,
+   "dapan": "Flight SA999 has been delayed."
+ },
+ {
+   "id": 403,
+   "dapan": "Would passenger Jo Page please come to..."
+ },
+ {
+   "id": 404,
+   "dapan": "Excuse me, where is the American Airlines check-in desk?"
+ },
+ {
+   "id": 405,
+   "dapan": "Will my luggage go straight through, or do I need to pick it up in [Chicago]?"
+ },
+ {
+   "id": 406,
+   "dapan": "How much is the fee?"
+ },
+ {
+   "id": 407,
+   "dapan": "Please mark this bag as ‘fragile.’"
+ },
+ {
+   "id": 408,
+   "dapan": "What is the purpose of your trip?"
+ },
+ {
+   "id": 409,
+   "dapan": "Did you pack this bag yourself?"
+ },
+ {
+   "id": 410,
+   "dapan": "Please do not leave any bags unattended."
+ },
+ {
+   "id": 411,
+   "dapan": "Do you have anything to declare?"
+ },
+ {
+   "id": 412,
+   "dapan": "Flight BA333 is now boarding."
+ },
+ {
+   "id": 413,
+   "dapan": "Flight UA666 has been cancelled."
+ },
+ {
+   "id": 414,
+   "dapan": "Flight SA999 has been delayed."
+ },
+ {
+   "id": 415,
+   "dapan": "Would passenger Jo Page please come to..."
+ },
+ {
+   "id": 416,
+   "dapan": "It's freezing outside!"
+ },
+ {
+   "id": 417,
+   "dapan": "It's kinda chilly. Wrap up warm."
+ },
+ {
+   "id": 418,
+   "dapan": "It's cold."
+ },
+ {
+   "id": 419,
+   "dapan": "It's like the Arctic out there."
+ },
+ {
+   "id": 420,
+   "dapan": "It's chilly. Take a sweater"
+ },
+ {
+   "id": 421,
+   "dapan": "You can see your breath."
+ },
+ {
+   "id": 422,
+   "dapan": "It's below zero."
+ },
+ {
+   "id": 423,
+   "dapan": "It must be minus five or more."
+ },
+ {
+   "id": 424,
+   "dapan": "It's pretty frosty today."
+ },
+ {
+   "id": 425,
+   "dapan": "I've gotta scrape the windsheild, it's that cold.."
+ },
+ {
+   "id": 426,
+   "dapan": "I'm a hairdresser."
+ },
+ {
+   "id": 427,
+   "dapan": "I'm in hairdressing."
+ },
+ {
+   "id": 428,
+   "dapan": "I work as a hairdresser."
+ },
+ {
+   "id": 429,
+   "dapan": "I'm a professional hairdresser."
+ },
+ {
+   "id": 430,
+   "dapan": "I'm a hair stylist."
+ },
+ {
+   "id": 431,
+   "dapan": "I'm in the hairdressing business."
+ },
+ {
+   "id": 432,
+   "dapan": "I cut hair (for a living)."
+ },
+ {
+   "id": 433,
+   "dapan": "I work for a hairdresser."
+ },
+ {
+   "id": 434,
+   "dapan": "My day job is hairdressing."
+ },
+ {
+   "id": 435,
+   "dapan": "I earn my living as a hairdresser."
+ },
+ {
+   "id": 436,
+   "dapan": "Sorry, we don't have any vacancies."
+ },
+ {
+   "id": 437,
+   "dapan": "Take me to the Marriott Hotel."
+ },
+ {
+   "id": 438,
+   "dapan": "Are you here alone?"
+ },
+ {
+   "id": 439,
+   "dapan": "Can I bring my friend?"
+ },
+ {
+   "id": 440,
+   "dapan": "Can I have a receipt please?"
+ },
+ {
+   "id": 441,
+   "dapan": "Can it be cheaper?"
+ },
+ {
+   "id": 442,
+   "dapan": "Can we have a menu please."
+ },
+ {
+   "id": 443,
+   "dapan": "Can you hold this for me?"
+ },
+ {
+   "id": 444,
+   "dapan": "Do you have any children?"
+ },
+ {
+   "id": 445,
+   "dapan": "Do you know how much it costs?"
+ },
+ {
+   "id": 446,
+   "dapan": "Have you eaten at that restaurant?"
+ },
+ {
+   "id": 447,
+   "dapan": "Have you eaten yet?"
+ },
+ {
+   "id": 448,
+   "dapan": "Have you ever had Potato soup?"
+ },
+ {
+   "id": 449,
+   "dapan": "He likes juice but he doesn't like milk"
+ },
+ {
+   "id": 450,
+   "dapan": "What time is check out?"
+ }
+]
