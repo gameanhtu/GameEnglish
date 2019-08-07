@@ -1,22 +1,1222 @@
 [
  {
    "id": 1,
-   "dapan": "Be careful driving."
+   "dapan": "A blessing in disguise"
  },
  {
    "id": 2,
-   "dapan": "Be careful."
+   "dapan": "A dime a dozen"
  },
  {
    "id": 3,
-   "dapan": "Can you translate this for me?"
+   "dapan": "Beat around the bush"
  },
  {
    "id": 4,
-   "dapan": "Chicago is very different from Boston."
+   "dapan": "Better late than never"
  },
  {
    "id": 5,
-   "dapan": "Don't worry."
+   "dapan": "Bite the bullet"
+ },
+ {
+   "id": 6,
+   "dapan": "Break a leg"
+ },
+ {
+   "id": 7,
+   "dapan": "Call it a day"
+ },
+ {
+   "id": 8,
+   "dapan": "Cut somebody some slack"
+ },
+ {
+   "id": 9,
+   "dapan": "Cutting corners"
+ },
+ {
+   "id": 10,
+   "dapan": "Easy does it"
+ },
+ {
+   "id": 11,
+   "dapan": "Get out of hand"
+ },
+ {
+   "id": 12,
+   "dapan": "Get something out of your system"
+ },
+ {
+   "id": 13,
+   "dapan": "Get your act together"
+ },
+ {
+   "id": 14,
+   "dapan": "Give someone the benefit of the doubt"
+ },
+ {
+   "id": 15,
+   "dapan": "Go back to the drawing board"
+ },
+ {
+   "id": 16,
+   "dapan": "Hang in there"
+ },
+ {
+   "id": 17,
+   "dapan": "Hit the sack"
+ },
+ {
+   "id": 18,
+   "dapan": "It's not rocket science"
+ },
+ {
+   "id": 19,
+   "dapan": "Let someone off the hook"
+ },
+ {
+   "id": 20,
+   "dapan": "Make a long story short"
+ },
+ {
+   "id": 21,
+   "dapan": "Miss the boat"
+ },
+ {
+   "id": 22,
+   "dapan": "No pain, no gain"
+ },
+ {
+   "id": 23,
+   "dapan": "On the ball"
+ },
+ {
+   "id": 24,
+   "dapan": "Pull someone's leg"
+ },
+ {
+   "id": 25,
+   "dapan": "Pull yourself together"
+ },
+ {
+   "id": 26,
+   "dapan": "So far so good"
+ },
+ {
+   "id": 27,
+   "dapan": "Speak of the devil"
+ },
+ {
+   "id": 28,
+   "dapan": "That's the last straw"
+ },
+ {
+   "id": 29,
+   "dapan": "The best of both worlds"
+ },
+ {
+   "id": 30,
+   "dapan": "Time flies when you're having fun"
+ },
+ {
+   "id": 31,
+   "dapan": "To get bent out of shape"
+ },
+ {
+   "id": 32,
+   "dapan": "To make matters worse"
+ },
+ {
+   "id": 33,
+   "dapan": "Under the weather"
+ },
+ {
+   "id": 34,
+   "dapan": "We'll cross that bridge when we come to it"
+ },
+ {
+   "id": 35,
+   "dapan": "Wrap your head around something"
+ },
+ {
+   "id": 36,
+   "dapan": "You can say that again"
+ },
+ {
+   "id": 37,
+   "dapan": "Your guess is as good as mine"
+ },
+ {
+   "id": 38,
+   "dapan": "A bird in the hand is worth two in the bush"
+ },
+ {
+   "id": 39,
+   "dapan": "A penny for your thoughts"
+ },
+ {
+   "id": 40,
+   "dapan": "A penny saved is a penny earned"
+ },
+ {
+   "id": 41,
+   "dapan": "A perfect storm"
+ },
+ {
+   "id": 42,
+   "dapan": "A picture is worth 1000 words"
+ },
+ {
+   "id": 43,
+   "dapan": "Actions speak louder than words"
+ },
+ {
+   "id": 44,
+   "dapan": "Add insult to injury"
+ },
+ {
+   "id": 45,
+   "dapan": "Barking up the wrong tree"
+ },
+ {
+   "id": 46,
+   "dapan": "Birds of a feather flock together"
+ },
+ {
+   "id": 47,
+   "dapan": "Bite off more than you can chew"
+ },
+ {
+   "id": 48,
+   "dapan": "Break the ice"
+ },
+ {
+   "id": 49,
+   "dapan": "By the skin of your teeth"
+ },
+ {
+   "id": 50,
+   "dapan": "Comparing apples to oranges"
+ },
+ {
+   "id": 51,
+   "dapan": "Costs an arm and a leg"
+ },
+ {
+   "id": 52,
+   "dapan": "Do something at the drop of a hat"
+ },
+ {
+   "id": 53,
+   "dapan": "Do unto others as you would have them do unto you"
+ },
+ {
+   "id": 54,
+   "dapan": "Don't count your chickens before they hatch"
+ },
+ {
+   "id": 55,
+   "dapan": "Don't cry over spilt milk"
+ },
+ {
+   "id": 56,
+   "dapan": "Don't give up your day job"
+ },
+ {
+   "id": 57,
+   "dapan": "Don't put all your eggs in one basket"
+ },
+ {
+   "id": 58,
+   "dapan": "Every cloud has a silver lining"
+ },
+ {
+   "id": 59,
+   "dapan": "Get a taste of your own medicine"
+ },
+ {
+   "id": 60,
+   "dapan": "Give someone the cold shoulder"
+ },
+ {
+   "id": 61,
+   "dapan": "Go on a wild goose chase"
+ },
+ {
+   "id": 62,
+   "dapan": "Good things come to those who wait"
+ },
+ {
+   "id": 63,
+   "dapan": "He has bigger fish to fry"
+ },
+ {
+   "id": 64,
+   "dapan": "He's a chip off the old block"
+ },
+ {
+   "id": 65,
+   "dapan": "Hit the nail on the head"
+ },
+ {
+   "id": 66,
+   "dapan": "Ignorance is bliss"
+ },
+ {
+   "id": 67,
+   "dapan": "It ain't over till the fat lady sings"
+ },
+ {
+   "id": 68,
+   "dapan": "It takes one to know one"
+ },
+ {
+   "id": 69,
+   "dapan": "It's a piece of cake"
+ },
+ {
+   "id": 70,
+   "dapan": "It's raining cats and dogs"
+ },
+ {
+   "id": 71,
+   "dapan": "Kill two birds with one stone"
+ },
+ {
+   "id": 72,
+   "dapan": "Let the cat out of the bag"
+ },
+ {
+   "id": 73,
+   "dapan": "Live and learn"
+ },
+ {
+   "id": 74,
+   "dapan": "Look before you leap"
+ },
+ {
+   "id": 75,
+   "dapan": "On thin ice"
+ },
+ {
+   "id": 76,
+   "dapan": "Once in a blue moon"
+ },
+ {
+   "id": 77,
+   "dapan": "Play devil's advocate"
+ },
+ {
+   "id": 78,
+   "dapan": "Put something on ice"
+ },
+ {
+   "id": 79,
+   "dapan": "Rain on someone's parade"
+ },
+ {
+   "id": 80,
+   "dapan": "Saving for a rainy day"
+ },
+ {
+   "id": 81,
+   "dapan": "Slow and steady wins the race"
+ },
+ {
+   "id": 82,
+   "dapan": "Spill the beans"
+ },
+ {
+   "id": 83,
+   "dapan": "Take a rain check"
+ },
+ {
+   "id": 84,
+   "dapan": "Take it with a grain of salt"
+ },
+ {
+   "id": 85,
+   "dapan": "The ball is in your court"
+ },
+ {
+   "id": 86,
+   "dapan": "The best thing since sliced bread"
+ },
+ {
+   "id": 87,
+   "dapan": "The devil is in the details"
+ },
+ {
+   "id": 88,
+   "dapan": "The early bird gets the worm"
+ },
+ {
+   "id": 89,
+   "dapan": "The elephant in the room"
+ },
+ {
+   "id": 90,
+   "dapan": "The whole nine yards"
+ },
+ {
+   "id": 91,
+   "dapan": "There are other fish in the sea"
+ },
+ {
+   "id": 92,
+   "dapan": "There's a method to his madness"
+ },
+ {
+   "id": 93,
+   "dapan": "There's no such thing as a free lunch"
+ },
+ {
+   "id": 94,
+   "dapan": "Throw caution to the wind"
+ },
+ {
+   "id": 95,
+   "dapan": "You can't have your cake and eat it too"
+ },
+ {
+   "id": 96,
+   "dapan": "You can't judge a book by its cover"
+ },
+ {
+   "id": 97,
+   "dapan": "A little learning is a dangerous thing"
+ },
+ {
+   "id": 98,
+   "dapan": "A snowball effect"
+ },
+ {
+   "id": 99,
+   "dapan": "A snowball's chance in hell"
+ },
+ {
+   "id": 100,
+   "dapan": "A stitch in time saves nine"
+ },
+ {
+   "id": 101,
+   "dapan": "A storm in a teacup"
+ },
+ {
+   "id": 102,
+   "dapan": "An apple a day keeps the doctor away"
+ },
+ {
+   "id": 103,
+   "dapan": "An ounce of prevention is worth a pound of cure"
+ },
+ {
+   "id": 104,
+   "dapan": "As right as rain"
+ },
+ {
+   "id": 105,
+   "dapan": "Bolt from the blue"
+ },
+ {
+   "id": 106,
+   "dapan": "Burn bridges"
+ },
+ {
+   "id": 107,
+   "dapan": "Calm before the storm"
+ },
+ {
+   "id": 108,
+   "dapan": "Come rain or shine"
+ },
+ {
+   "id": 109,
+   "dapan": "Curiosity killed the cat"
+ },
+ {
+   "id": 110,
+   "dapan": "Cut the mustard"
+ },
+ {
+   "id": 111,
+   "dapan": "Don't beat a dead horse"
+ },
+ {
+   "id": 112,
+   "dapan": "Every dog has his day"
+ },
+ {
+   "id": 113,
+   "dapan": "Familiarity breeds contempt"
+ },
+ {
+   "id": 114,
+   "dapan": "Fit as a fiddle"
+ },
+ {
+   "id": 115,
+   "dapan": "Fortune favours the bold"
+ },
+ {
+   "id": 116,
+   "dapan": "Get a second wind"
+ },
+ {
+   "id": 117,
+   "dapan": "Get wind of something"
+ },
+ {
+   "id": 118,
+   "dapan": "Go down in flames"
+ },
+ {
+   "id": 119,
+   "dapan": "Haste makes waste"
+ },
+ {
+   "id": 120,
+   "dapan": "Have your head in the clouds"
+ },
+ {
+   "id": 121,
+   "dapan": "He who laughs last laughs loudest"
+ },
+ {
+   "id": 122,
+   "dapan": "Hear something straight from the horse's mouth"
+ },
+ {
+   "id": 123,
+   "dapan": "He's not playing with a full deck"
+ },
+ {
+   "id": 124,
+   "dapan": "He's off his rocker"
+ },
+ {
+   "id": 125,
+   "dapan": "He's sitting on the fence"
+ },
+ {
+   "id": 126,
+   "dapan": "It is a poor workman who blames his tools"
+ },
+ {
+   "id": 127,
+   "dapan": "It is always darkest before the dawn"
+ },
+ {
+   "id": 128,
+   "dapan": "It takes two to tango"
+ },
+ {
+   "id": 129,
+   "dapan": "Jump on the bandwagon"
+ },
+ {
+   "id": 130,
+   "dapan": "Know which way the wind is blowing"
+ },
+ {
+   "id": 131,
+   "dapan": "Leave no stone unturned"
+ },
+ {
+   "id": 132,
+   "dapan": "Let sleeping dogs lie"
+ },
+ {
+   "id": 133,
+   "dapan": "Like riding a bicycle"
+ },
+ {
+   "id": 134,
+   "dapan": "Like two peas in a pod"
+ },
+ {
+   "id": 135,
+   "dapan": "Make hay while the sun shines"
+ },
+ {
+   "id": 136,
+   "dapan": "On cloud nine"
+ },
+ {
+   "id": 137,
+   "dapan": "Once bitten, twice shy"
+ },
+ {
+   "id": 138,
+   "dapan": "Out of the frying pan and into the fire"
+ },
+ {
+   "id": 139,
+   "dapan": "Run like the wind"
+ },
+ {
+   "id": 140,
+   "dapan": "Shape up or ship out"
+ },
+ {
+   "id": 141,
+   "dapan": "Snowed under"
+ },
+ {
+   "id": 142,
+   "dapan": "That ship has sailed"
+ },
+ {
+   "id": 143,
+   "dapan": "The pot calling the kettle black"
+ },
+ {
+   "id": 144,
+   "dapan": "There are clouds on the horizon"
+ },
+ {
+   "id": 145,
+   "dapan": "Those who live in glass houses shouldn't throw stones"
+ },
+ {
+   "id": 146,
+   "dapan": "Through thick and thin"
+ },
+ {
+   "id": 147,
+   "dapan": "Time is money"
+ },
+ {
+   "id": 148,
+   "dapan": "Waste not, want not"
+ },
+ {
+   "id": 149,
+   "dapan": "We see eye to eye"
+ },
+ {
+   "id": 150,
+   "dapan": "Weather the storm"
+ },
+ {
+   "id": 151,
+   "dapan": "Well begun is half done"
+ },
+ {
+   "id": 152,
+   "dapan": "When it rains it pours"
+ },
+ {
+   "id": 153,
+   "dapan": "You can catch more flies with honey than you can with vinegar"
+ },
+ {
+   "id": 154,
+   "dapan": "You can lead a horse to water, but you can't make him drink"
+ },
+ {
+   "id": 155,
+   "dapan": "You can't make an omelet without breaking some eggs"
+ },
+ {
+   "id": 156,
+   "dapan": "A bad workman always blames his tools."
+ },
+ {
+   "id": 157,
+   "dapan": "A journey of thousand miles begins with a single step."
+ },
+ {
+   "id": 158,
+   "dapan": "Never put off until tomorrow what you can do today."
+ },
+ {
+   "id": 159,
+   "dapan": "Never test the depth of water with both feet."
+ },
+ {
+   "id": 160,
+   "dapan": "No gain without pain."
+ },
+ {
+   "id": 161,
+   "dapan": "No news is good news."
+ },
+ {
+   "id": 162,
+   "dapan": "Once bitten twice shy."
+ },
+ {
+   "id": 163,
+   "dapan": "One man’s junk is another man’s treasure."
+ },
+ {
+   "id": 164,
+   "dapan": "One shouldn’t miss forest for the trees."
+ },
+ {
+   "id": 165,
+   "dapan": "Out of sight, out of mind."
+ },
+ {
+   "id": 166,
+   "dapan": "Pen is mightier than sword."
+ },
+ {
+   "id": 167,
+   "dapan": "People who live in glass houses shouldn’t throw stones at others."
+ },
+ {
+   "id": 168,
+   "dapan": "A leopard can’t/ doesn’t change its spots."
+ },
+ {
+   "id": 169,
+   "dapan": "Persuasion is better than force."
+ },
+ {
+   "id": 170,
+   "dapan": "Practice makes perfect."
+ },
+ {
+   "id": 171,
+   "dapan": "Practice what you preach."
+ },
+ {
+   "id": 172,
+   "dapan": "Rome wasn’t built in a day."
+ },
+ {
+   "id": 173,
+   "dapan": "Silence is half consent."
+ },
+ {
+   "id": 174,
+   "dapan": "Slow and steady wins the race."
+ },
+ {
+   "id": 175,
+   "dapan": "Still waters run deep."
+ },
+ {
+   "id": 176,
+   "dapan": "Strike while the iron is hot."
+ },
+ {
+   "id": 177,
+   "dapan": "The best-laid plans go astray."
+ },
+ {
+   "id": 178,
+   "dapan": "The end justifies the means."
+ },
+ {
+   "id": 179,
+   "dapan": "All good things come to an end."
+ },
+ {
+   "id": 180,
+   "dapan": "The harder you work, the luckier you get."
+ },
+ {
+   "id": 181,
+   "dapan": "The grass is greener on the other side of the fence."
+ },
+ {
+   "id": 182,
+   "dapan": "The proof of the pudding is in the eating."
+ },
+ {
+   "id": 183,
+   "dapan": "There are more ways than one to skin a cat."
+ },
+ {
+   "id": 184,
+   "dapan": "There is no time like the present."
+ },
+ {
+   "id": 185,
+   "dapan": "There is safety in numbers."
+ },
+ {
+   "id": 186,
+   "dapan": "The road to hell is paved with good intentions."
+ },
+ {
+   "id": 187,
+   "dapan": "The show must go on."
+ },
+ {
+   "id": 188,
+   "dapan": "The squeaky wheel gets the grease."
+ },
+ {
+   "id": 189,
+   "dapan": "Time and tide wait for no man."
+ },
+ {
+   "id": 190,
+   "dapan": "All’s well that ends well."
+ },
+ {
+   "id": 191,
+   "dapan": "Too many cooks spoil the broth."
+ },
+ {
+   "id": 192,
+   "dapan": "Two heads are better than one."
+ },
+ {
+   "id": 193,
+   "dapan": "Two wrongs don’t make a right."
+ },
+ {
+   "id": 194,
+   "dapan": "Watch the doughnut, and not the hole."
+ },
+ {
+   "id": 195,
+   "dapan": "What goes around comes around."
+ },
+ {
+   "id": 196,
+   "dapan": "When in Rome, do as the Romans do."
+ },
+ {
+   "id": 197,
+   "dapan": "When the going gets tough, the tough get going."
+ },
+ {
+   "id": 198,
+   "dapan": "Where there’s a will, there’s a way."
+ },
+ {
+   "id": 199,
+   "dapan": "Where there’s smoke there’s fire."
+ },
+ {
+   "id": 200,
+   "dapan": "Where one door shuts, another opens."
+ },
+ {
+   "id": 201,
+   "dapan": "All that glitters is not gold."
+ },
+ {
+   "id": 202,
+   "dapan": "While the cat’s away, the mice will play."
+ },
+ {
+   "id": 203,
+   "dapan": "You can catch more flies with honey than with vinegar."
+ },
+ {
+   "id": 204,
+   "dapan": "You can lead a horse to water but you can’t make it drink."
+ },
+ {
+   "id": 205,
+   "dapan": "You can’t always get what you want."
+ },
+ {
+   "id": 206,
+   "dapan": "You can’t fit a round peg in a square hole."
+ },
+ {
+   "id": 207,
+   "dapan": "You can’t have your cake and eat it too."
+ },
+ {
+   "id": 208,
+   "dapan": "You can’t make an omelette without breaking eggs."
+ },
+ {
+   "id": 209,
+   "dapan": "You can’t teach an old dog new tricks."
+ },
+ {
+   "id": 210,
+   "dapan": "You can’t unscramble a scrambled egg."
+ },
+ {
+   "id": 211,
+   "dapan": "You can’t win them all."
+ },
+ {
+   "id": 212,
+   "dapan": "All’s fair in love and war."
+ },
+ {
+   "id": 213,
+   "dapan": "You show me the man and I’ll show you the rule."
+ },
+ {
+   "id": 214,
+   "dapan": "Always put your best foot forward."
+ },
+ {
+   "id": 215,
+   "dapan": "Among the blind the one-eyed man is king."
+ },
+ {
+   "id": 216,
+   "dapan": "An apple a day keeps the doctor away."
+ },
+ {
+   "id": 217,
+   "dapan": "An empty vessel makes much noise."
+ },
+ {
+   "id": 218,
+   "dapan": "A bird in hand is worth two in the bush."
+ },
+ {
+   "id": 219,
+   "dapan": "An idle brain is the devil’s workshop."
+ },
+ {
+   "id": 220,
+   "dapan": "An ounce of protection is worth a pound of cure."
+ },
+ {
+   "id": 221,
+   "dapan": "A picture is worth a thousand words."
+ },
+ {
+   "id": 222,
+   "dapan": "Appearances can be deceptive."
+ },
+ {
+   "id": 223,
+   "dapan": "A rolling stone gathers no moss."
+ },
+ {
+   "id": 224,
+   "dapan": "A ship in the harbor is safe, but that is not what a ship is for."
+ },
+ {
+   "id": 225,
+   "dapan": "A stitch in time saves nine."
+ },
+ {
+   "id": 226,
+   "dapan": "As you sow, so you shall reap."
+ },
+ {
+   "id": 227,
+   "dapan": "A thing begun is half done."
+ },
+ {
+   "id": 228,
+   "dapan": "Barking dogs seldom bite."
+ },
+ {
+   "id": 229,
+   "dapan": "Absence makes the heart grow fonder."
+ },
+ {
+   "id": 230,
+   "dapan": "Be slow in choosing, but slower in changing."
+ },
+ {
+   "id": 231,
+   "dapan": "Beauty is in the eye of the beholder."
+ },
+ {
+   "id": 232,
+   "dapan": "Beauty is only skin deep."
+ },
+ {
+   "id": 233,
+   "dapan": "Beggars can’t be choosers."
+ },
+ {
+   "id": 234,
+   "dapan": "Best things in life are free."
+ },
+ {
+   "id": 235,
+   "dapan": "Better late than never."
+ },
+ {
+   "id": 236,
+   "dapan": "Better to be poor and healthy rather than rich and sick."
+ },
+ {
+   "id": 237,
+   "dapan": "Better to wear out than to rust out."
+ },
+ {
+   "id": 238,
+   "dapan": "Blood is thicker than water."
+ },
+ {
+   "id": 239,
+   "dapan": "Cleanliness is next to Godliness."
+ },
+ {
+   "id": 240,
+   "dapan": "A cat has nine lives."
+ },
+ {
+   "id": 241,
+   "dapan": "Clothes do not make the man."
+ },
+ {
+   "id": 242,
+   "dapan": "Cowards die many times before their deaths."
+ },
+ {
+   "id": 243,
+   "dapan": "Cross the stream where it is shallowest."
+ },
+ {
+   "id": 244,
+   "dapan": "Curiosity killed the cat."
+ },
+ {
+   "id": 245,
+   "dapan": "Curses, like chickens, come home to roost."
+ },
+ {
+   "id": 246,
+   "dapan": "Discretion is the better part of valor."
+ },
+ {
+   "id": 247,
+   "dapan": "Don’t bite off more than you can chew."
+ },
+ {
+   "id": 248,
+   "dapan": "Don’t bite the hand that feeds you."
+ },
+ {
+   "id": 249,
+   "dapan": "Don’t blow your own trumpet."
+ },
+ {
+   "id": 250,
+   "dapan": "Don’t cast pearls before swine."
+ },
+ {
+   "id": 251,
+   "dapan": "A chain is only as strong as its weakest link."
+ },
+ {
+   "id": 252,
+   "dapan": "Don’t count your chickens before they hatch."
+ },
+ {
+   "id": 253,
+   "dapan": "Don’t cross a bridge until you come to it."
+ },
+ {
+   "id": 254,
+   "dapan": "Don’t judge a book by its cover."
+ },
+ {
+   "id": 255,
+   "dapan": "Don’t kill the goose that lays the golden eggs."
+ },
+ {
+   "id": 256,
+   "dapan": "Don’t put all your eggs in one basket."
+ },
+ {
+   "id": 257,
+   "dapan": "Don’t put the cart before the horse."
+ },
+ {
+   "id": 258,
+   "dapan": "Don’t throw the baby with the bathwater."
+ },
+ {
+   "id": 259,
+   "dapan": "Early bird catches the worm."
+ },
+ {
+   "id": 260,
+   "dapan": "Easy come, easy go."
+ },
+ {
+   "id": 261,
+   "dapan": "Empty bags cannot stand upright."
+ },
+ {
+   "id": 262,
+   "dapan": "Actions speak louder than words."
+ },
+ {
+   "id": 263,
+   "dapan": "Every cloud has a silver lining."
+ },
+ {
+   "id": 264,
+   "dapan": "Every dog has his day."
+ },
+ {
+   "id": 265,
+   "dapan": "Every man is the architect of his destiny."
+ },
+ {
+   "id": 266,
+   "dapan": "Every man has his price."
+ },
+ {
+   "id": 267,
+   "dapan": "Fall seven timStand up eight."
+ },
+ {
+   "id": 268,
+   "dapan": "Familiarity breeds contempt."
+ },
+ {
+   "id": 269,
+   "dapan": "Fools rush in where angels fear to tread."
+ },
+ {
+   "id": 270,
+   "dapan": "Fortune favors the brave."
+ },
+ {
+   "id": 271,
+   "dapan": "Get out while the going (getting) is good."
+ },
+ {
+   "id": 272,
+   "dapan": "Give them an inch and they’ll take a mile."
+ },
+ {
+   "id": 273,
+   "dapan": "A drowning man will clutch at a straw."
+ },
+ {
+   "id": 274,
+   "dapan": "God helps those who help themselves."
+ },
+ {
+   "id": 275,
+   "dapan": "Good things come to those who wait."
+ },
+ {
+   "id": 276,
+   "dapan": "Grief divided is made lighter."
+ },
+ {
+   "id": 277,
+   "dapan": "Half a loaf is better than none."
+ },
+ {
+   "id": 278,
+   "dapan": "Honesty is the best policy."
+ },
+ {
+   "id": 279,
+   "dapan": "Hope for the best, prepare for the worst."
+ },
+ {
+   "id": 280,
+   "dapan": "If it ain’t broke, don’t fix it."
+ },
+ {
+   "id": 281,
+   "dapan": "If the mountain won’t come to Muhammad, Muhammad must go to the mountain."
+ },
+ {
+   "id": 282,
+   "dapan": "If wishes were horses, beggars would ride."
+ },
+ {
+   "id": 283,
+   "dapan": "If you can’t beat them, join them."
+ },
+ {
+   "id": 284,
+   "dapan": "Adversity and loss make a man wise."
+ },
+ {
+   "id": 285,
+   "dapan": "If you play with fire, you’ll get burned."
+ },
+ {
+   "id": 286,
+   "dapan": "Ignorance is bliss."
+ },
+ {
+   "id": 287,
+   "dapan": "It’s better to be safe than sorry."
+ },
+ {
+   "id": 288,
+   "dapan": "It’s easy to be wise after the event."
+ },
+ {
+   "id": 289,
+   "dapan": "It’s never too late to mend."
+ },
+ {
+   "id": 290,
+   "dapan": "It’s not over till it’s over."
+ },
+ {
+   "id": 291,
+   "dapan": "It’s no use crying over spilt milk."
+ },
+ {
+   "id": 292,
+   "dapan": "It takes two to make a quarrel."
+ },
+ {
+   "id": 293,
+   "dapan": "It takes two to tango."
+ },
+ {
+   "id": 294,
+   "dapan": "Keep your mouth shut and your eyes open."
+ },
+ {
+   "id": 295,
+   "dapan": "A fool and his money are soon parted."
+ },
+ {
+   "id": 296,
+   "dapan": "Laughter is the best medicine."
+ },
+ {
+   "id": 297,
+   "dapan": "Learn to walk before you run."
+ },
+ {
+   "id": 298,
+   "dapan": "Let sleeping dogs lie."
+ },
+ {
+   "id": 299,
+   "dapan": "Life begins at forty."
+ },
+ {
+   "id": 300,
+   "dapan": "Lightning never strikes twice in the same place."
+ },
+ {
+   "id": 301,
+   "dapan": "Look before you leap."
+ },
+ {
+   "id": 302,
+   "dapan": "Make hay while the sun shines."
+ },
+ {
+   "id": 303,
+   "dapan": "Money doesn’t grow on trees."
+ },
+ {
+   "id": 304,
+   "dapan": "Money talks."
+ },
+ {
+   "id": 305,
+   "dapan": "Necessity is the mother of invention."
  }
 ]
